@@ -1,0 +1,939 @@
+﻿sofifa_id,short_name,age,dob,height_cm,weight_kg,nationality,club,overall,potential,player_positions,preferred_foot,international_reputation,contract_valid_until
+134956,L. Cana,30,27/07/1983,186,77,Albania,Lazio,77,77,CB,Right,2,2016
+184881,S. Feghouli,24,26/12/1989,177,71,Algeria,Valencia CF,81,88,"RM, RW",Right,2,2016
+184267,Y. Brahimi,24,08/02/1990,175,66,Algeria,FC Porto,77,81,"LW, RW",Right,2,2019
+201454,F. Ghoulam,23,01/02/1991,188,80,Algeria,Napoli,75,81,LB,Left,1,2018
+201143,A. Mandi,22,22/10/1991,184,78,Algeria,Stade de Reims,75,79,"RB, CB",Right,1,2017
+209473,N. Ghilas,24,20/04/1990,183,85,Algeria,Cordoba CF,75,79,"ST, RW",Right,1,2015
+217699,I. Slimani,26,18/06/1988,188,79,Algeria,Sporting CP,75,78,ST,Right,2,2017
+158023,L. Messi,27,24/06/1987,169,67,Argentina,FC Barcelona,93,95,CF,Left,5,2018
+170481,E. Garay,27,10/10/1986,188,80,Argentina,Zenit St. Petersburg,83,85,CB,Right,3,2019
+142754,J. Mascherano,30,08/06/1984,174,74,Argentina,FC Barcelona,83,83,CB,Right,3,2018
+142784,P. Zabaleta,29,16/01/1985,178,76,Argentina,Manchester City,82,82,RB,Right,3,2017
+152999,R. Palacio,32,05/02/1982,175,70,Argentina,Inter,82,82,ST,Right,2,2016
+159065,E. Lavezzi,29,03/05/1985,173,75,Argentina,Paris Saint-Germain,82,82,"LW, ST",Right,3,2016
+178562,E. Banega,26,29/06/1988,174,71,Argentina,Sevilla FC,80,85,"CM, CDM",Right,2,2016
+192366,N. Otamendi,26,12/02/1988,183,75,Argentina,Valencia CF,80,84,CB,Right,2,2019
+179847,F. Fazio,27,17/03/1987,195,91,Argentina,Tottenham Hotspur,80,80,CB,Right,2,2018
+188791,A. Costa,29,09/01/1985,176,75,Argentina,Spartak Moscow,80,80,CM,Left,2,2017
+186547,M. Musacchio,23,26/08/1990,182,80,Argentina,Villarreal CF,79,85,"CB, CDM",Right,1,2018
+191180,J. Pastore,25,20/06/1989,187,78,Argentina,Paris Saint-Germain,79,85,"CM, LM",Right,3,2016
+190972,E. Salvio,23,13/07/1990,171,70,Argentina,SL Benfica,79,84,RM,Right,2,2017
+201862,M. Rojo,24,20/03/1990,186,82,Argentina,Manchester United,79,82,"CB, LB",Left,3,2019
+48745,F. Coloccini,32,22/01/1982,184,83,Argentina,Newcastle United,79,79,CB,Right,3,2016
+134979,M. Demichelis,33,20/12/1980,184,78,Argentina,Manchester City,79,79,CB,Right,3,2015
+139062,W. Caballero,32,28/09/1981,186,80,Argentina,Manchester City,79,79,GK,Right,2,2017
+170368,E. Lamela,22,04/03/1992,183,70,Argentina,Tottenham Hotspur,78,84,"RM, CAM",Left,2,2018
+183899,P. Piatti,25,31/03/1989,163,63,Argentina,Valencia CF,78,83,"LW, LM, CF, RW",Left,2,2016
+138123,E. Cambiasso,33,18/08/1980,177,78,Argentina,Leicester City,78,78,"CDM, CM",Left,2,2015
+142708,D. Milito,35,12/06/1979,183,78,Argentina,Racing Club,78,78,ST,Right,2,2015
+165501,N. Pareja,30,19/01/1984,181,74,Argentina,Sevilla FC,78,78,CB,Right,2,2017
+199151,J. Iturbe,21,04/06/1993,172,68,Argentina,Roma,77,88,RW,Left,1,2019
+193061,R. Pereyra,23,07/01/1991,184,78,Argentina,Juventus,77,83,"CM, CAM, CF",Right,1,2015
+179696,E. Insua,25,07/01/1989,179,85,Argentina,Rayo Vallecano,77,82,LB,Left,2,2015
+173306,C. Ansaldi,27,20/09/1986,181,76,Argentina,Atletico Madrid,77,80,LB,Left,2,2015
+184252,L. Pratto,26,04/06/1988,188,82,Argentina,VÃ©lez Sarsfield,77,78,ST,Right,1,2018
+123603,H. Campagnaro,34,27/06/1980,181,85,Argentina,Inter,77,77,CB,Right,2,2015
+142938,G. Denis,32,10/09/1981,182,87,Argentina,Atalanta,77,77,ST,Right,2,2015
+143121,J. Sosa,29,19/06/1985,181,77,Argentina,Besiktas,77,77,"RM, CAM, CF",Right,2,2015
+158963,L. Biglia,28,30/01/1986,178,74,Argentina,Lazio,77,77,CM,Right,2,2018
+172114,D. Valeri,28,01/05/1986,178,75,Argentina,Portland Timbers,77,77,"CAM, RW",Right,2,2021
+183893,C. Yacob,26,18/07/1987,181,73,Argentina,West Bromwich Albion,77,77,"CDM, CM",Right,2,2015
+201399,M. Icardi,21,19/02/1993,181,75,Argentina,Inter,76,86,ST,Right,1,2018
+215316,G. Rulli,22,20/05/1992,189,80,Argentina,Real Sociedad,76,83,GK,Right,1,2020
+23461,W. Samuel,36,23/03/1978,184,81,Argentina,FC Basel 1893,76,76,CB,Left,2,2015
+160741,D. Abraham,27,15/07/1986,188,85,Argentina,TSG 1899 Hoffenheim,76,76,CB,Right,2,2016
+165517,F. Gago,28,10/04/1986,178,70,Argentina,Boca Juniors,76,76,CM,Right,3,2016
+176376,I. Piatti,29,04/02/1985,180,76,Argentina,Montreal Impact,76,76,"LM, CAM",Right,2,2015
+214997,A. Correa,19,09/03/1995,176,70,Argentina,San Lorenzo de Almagro,75,86,"CAM, ST",Right,1,2020
+205632,L. Ocampos,19,11/07/1994,187,84,Argentina,AS Monaco,75,80,"RW, LW",Right,1,2017
+186405,F. Di Santo,25,07/04/1989,193,88,Argentina,SV Werder Bremen,75,79,ST,Right,1,2016
+183969,J. Forlin,26,10/01/1988,180,71,Argentina,Boca Juniors,75,77,CB,Right,1,2018
+200875,E. Gigliotti,27,20/05/1987,187,82,Argentina,Boca Juniors,75,76,ST,Right,1,2019
+215071,M. Casco,26,11/04/1988,169,71,Argentina,Newell's Old Boys,75,76,LB,Right,1,2016
+49212,J. Speroni,35,18/05/1979,186,87,Argentina,Crystal Palace,75,75,GK,Right,1,2015
+138798,G. Lux,32,07/06/1982,186,77,Argentina,Deportivo La Coruna,75,75,GK,Right,1,2016
+142721,M. Barovero,30,18/02/1984,181,74,Argentina,River Plate,75,75,GK,Right,1,2016
+142781,L. Romagnoli,33,17/03/1981,172,68,Argentina,San Lorenzo de Almagro,75,75,"CAM, RM",Right,1,2016
+143102,D. Colotto,33,10/03/1981,184,81,Argentina,RCD Espanyol,75,75,CB,Right,2,2015
+152997,D. Cvitanich,30,16/05/1984,174,72,Argentina,OGC Nice,75,75,ST,Right,2,2015
+165520,E. Scarione,28,14/07/1985,179,71,Argentina,KasimpaÅŸa SK,75,75,CAM,Right,1,2016
+171828,I. Scocco,29,29/05/1985,175,71,Argentina,Newell's Old Boys,75,75,ST,Right,2,2021
+185061,J. Morales,34,10/01/1980,175,65,Argentina,Real Salt Lake,75,75,CAM,Right,1,2018
+216692,S. Torrico,34,22/02/1980,186,84,Argentina,San Lorenzo de Almagro,75,75,GK,Right,1,2016
+216796,F. Cartabia,21,20/01/1993,170,65,Argentina,Cordoba CF,74,82,"LM, RM",Left,1,2015
+192883,H. Mkhitaryan,25,21/01/1989,178,72,Armenia,Borussia Dortmund,81,85,"CAM, LM, RM",Right,2,2017
+176270,Y. Movsisyan,26,02/08/1987,181,81,Armenia,Spartak Moscow,78,82,ST,Right,1,2017
+684,M. Schwarzer,41,06/10/1972,194,95,Australia,Chelsea,76,76,GK,Right,2,2015
+197445,D. Alaba,22,24/06/1992,180,75,Austria,FC Bayern Munchen,82,87,"LB, CM, CDM, LM",Left,3,2018
+1611,M. Stranzl,34,16/06/1980,191,83,Austria,Borrusia Munchengladbach,78,78,CB,Right,2,2015
+173467,V. Kavlak,25,03/11/1988,178,68,Austria,Besiktas,76,79,"CDM, CM",Right,1,2015
+177666,M. Harnik,27,10/06/1987,185,75,Austria,VfB Stuttgart,76,79,"RM, RW, ST, LM",Right,2,2016
+42521,A. Ivanschitz,30,15/10/1983,184,82,Austria,Levante UD,76,76,"LM, CAM",Left,2,2016
+189606,J. Baumgartlinger,26,02/01/1988,183,82,Austria,1. FSV Mainz 05,75,78,"CDM, CM",Right,1,2015
+183277,E. Hazard,23,07/01/1991,173,74,Belgium,Chelsea,88,90,"LM, RM",Right,4,2017
+192119,T. Courtois,22,11/05/1992,199,88,Belgium,Chelsea,86,90,GK,Left,3,2019
+139720,V. Kompany,28,10/04/1986,192,85,Belgium,Manchester City,86,86,CB,Right,4,2019
+175943,D. Mertens,27,06/05/1987,169,61,Belgium,Napoli,82,85,CAM,Right,2,2018
+172871,J. Vertonghen,27,24/04/1987,189,86,Belgium,Tottenham Hotspur,82,84,"CB, LB",Left,3,2016
+173426,S. Mignolet,26,06/03/1988,193,87,Belgium,Liverpool,82,83,GK,Right,3,2017
+192985,K. De Bruyne,23,28/06/1991,181,76,Belgium,VfL Wolfsburg,81,86,"CAM, LM, RM",Right,2,2019
+192505,R. Lukaku,21,13/05/1993,190,94,Belgium,Everton,80,86,ST,Left,3,2019
+177413,A. Witsel,25,12/01/1989,186,73,Belgium,Zenit St. Petersburg,80,85,"CM, CDM",Right,2,2017
+184111,C. Benteke,23,03/12/1990,190,83,Belgium,Aston Villa,80,85,ST,Right,3,2017
+172175,K. Mirallas,26,05/10/1987,178,70,Belgium,Everton,80,81,RM,Right,2,2016
+178518,R. Nainggolan,26,04/05/1988,176,65,Belgium,Roma,79,81,CM,Right,2,2018
+176944,M. Fellaini,26,22/11/1987,194,85,Belgium,Manchester United,79,80,"CDM, CM",Right,3,2018
+157304,T. Vermaelen,28,14/11/1985,182,75,Belgium,FC Barcelona,79,79,"CB, LB",Left,2,2019
+184087,T. Alderweireld,25,02/03/1989,187,80,Belgium,Southampton,78,82,CB,Right,2,2015
+200529,N. Chadli,24,02/08/1989,187,80,Belgium,Tottenham Hotspur,77,80,"LM, CAM, RM",Right,2,2017
+163492,N. Lombaerts,29,20/03/1985,188,83,Belgium,Zenit St. Petersburg,77,77,CB,Left,2,2018
+203486,T. Hazard,21,29/03/1993,174,69,Belgium,Borrusia Munchengladbach,76,84,"CAM, LM",Right,1,2015
+170815,S. Defour,26,15/04/1988,173,64,Belgium,RSC Anderlecht,76,78,"CM, CDM",Right,2,2019
+208330,A. Januzaj,19,05/02/1995,180,75,Belgium,Manchester United,75,87,"LM, RM, CAM",Left,1,2018
+213135,D. Origi,19,18/04/1995,185,75,Belgium,LOSC Lille,75,85,"LW, CF",Right,1,2015
+204529,M. Batshuayi,20,02/10/1993,185,78,Belgium,Olympique de Marseille,75,83,ST,Right,1,2019
+192537,M. Lestienne,22,17/06/1992,176,63,Belgium,Genoa,75,82,LW,Left,1,2017
+177390,H. Medunjanin,29,08/03/1985,188,76,Bosnia Herzegovina,Deportivo La Coruna,75,75,"CM, CAM, CDM",Left,2,2017
+164240,Thiago Silva,29,22/09/1984,183,79,Brazil,Paris Saint-Germain,87,87,CB,Right,4,2018
+190871,Neymar,22,05/02/1992,175,64,Brazil,FC Barcelona,86,91,LW,Right,5,2018
+188152,Oscar,22,09/09/1991,179,67,Brazil,Chelsea,84,87,"CAM, RM",Right,3,2015
+146530,Dani Alves,31,06/05/1983,173,64,Brazil,FC Barcelona,83,83,RB,Right,4,2015
+168609,Miranda,29,07/09/1984,186,76,Brazil,Atletico Madrid,83,83,CB,Right,3,2016
+189362,Hulk,27,25/07/1986,180,85,Brazil,Zenit St. Petersburg,83,83,"RW, ST, RM",Left,3,2017
+200949,Lucas,21,13/08/1992,172,72,Brazil,Paris Saint-Germain,82,87,"RW, RM",Right,2,2017
+176676,Marcelo,26,12/05/1988,174,75,Brazil,Real Madrid,82,85,LB,Left,3,2018
+180403,Willian,25,09/08/1988,175,75,Brazil,Chelsea,82,84,"RM, CAM",Right,2,2018
+179944,David Luiz,27,22/04/1987,189,84,Brazil,Paris Saint-Germain,82,83,CB,Right,4,2019
+185221,Luiz Gustavo,26,23/07/1987,187,80,Brazil,VfL Wolfsburg,82,83,CDM,Left,3,2018
+136130,Alex,32,17/06/1982,188,92,Brazil,Milan,82,82,CB,Right,3,2016
+136138,Diego,29,28/02/1985,173,73,Brazil,Fenerbahce,82,82,"CAM, LM, RM",Right,3,2017
+158625,Dante,30,18/10/1983,188,87,Brazil,FC Bayern Munchen,82,82,CB,Left,3,2017
+180432,Hernanes,29,29/05/1985,180,76,Brazil,Inter,82,82,"CM, CAM",Right,3,2018
+189242,Coutinho,22,12/06/1992,171,71,Brazil,Liverpool,81,86,"CAM, LW, CM",Right,2,2017
+201942,Roberto Firmino,22,02/10/1991,181,76,Brazil,TSG 1899 Hoffenheim,81,85,"CAM, CF",Right,2,2017
+184943,Ramires,27,24/03/1987,180,70,Brazil,Chelsea,81,82,"CDM, CM",Right,3,2017
+135475,Felipe Melo,31,26/06/1983,183,80,Brazil,Galatasaray SK,81,81,"CDM, CM",Right,3,2016
+135507,Fernandinho,29,04/05/1985,176,67,Brazil,Manchester City,81,81,"CM, CDM",Right,3,2017
+165580,Diego Alves,29,24/06/1985,188,83,Brazil,Valencia CF,81,81,GK,Left,2,2019
+205525,Bernard,21,08/09/1992,164,57,Brazil,Shakhtar Donetsk,80,86,CAM,Right,2,2018
+187961,Paulinho,25,25/07/1988,181,77,Brazil,Tottenham Hotspur,80,85,"CM, CDM",Right,3,2018
+190483,Douglas Costa,23,14/09/1990,170,73,Brazil,Shakhtar Donetsk,80,84,"CAM, RW",Left,1,2018
+28130,Ronaldinho,34,21/03/1980,182,80,Brazil,Quera,80,80,CAM,Right,3,2016
+144622,Raffael,29,28/03/1985,174,69,Brazil,Borrusia Munchengladbach,80,80,"CF, ST, CAM",Right,2,2017
+171919,Naldo,31,10/09/1982,198,89,Brazil,VfL Wolfsburg,80,80,CB,Right,3,2015
+191043,Alex Sandro,23,26/01/1991,180,78,Brazil,FC Porto,79,84,LB,Left,2,2016
+184134,Fernando,26,25/07/1987,185,76,Brazil,Manchester City,79,83,"CDM, CM",Right,2,2018
+188081,Alex Teixeira,24,06/01/1990,173,70,Brazil,Shakhtar Donetsk,79,82,"CAM, CDM",Right,1,2018
+190782,Sandro,25,15/03/1989,187,75,Brazil,Queens Park Rangers,79,81,"CDM, CM",Right,2,2017
+135455,Maicon,32,26/07/1981,184,77,Brazil,Roma,79,79,RB,Right,3,2015
+139094,Helton,36,18/05/1978,189,80,Brazil,FC Porto,79,79,GK,Right,2,2015
+176266,Lucas Leiva,27,09/01/1987,179,73,Brazil,Liverpool,79,79,"CDM, CM",Right,3,2017
+176769,Jonas,30,01/04/1984,181,73,Brazil,SL Benfica,79,79,"ST, CAM",Right,2,2016
+207865,Marquinhos,20,14/05/1994,183,75,Brazil,Paris Saint-Germain,78,86,CB,Right,2,2018
+200752,Juan Jesus,23,10/06/1991,185,83,Brazil,Inter,78,84,CB,Left,1,2016
+188803,Taison,26,13/01/1988,172,64,Brazil,Shakhtar Donetsk,78,82,"CAM, LW",Right,1,2017
+201400,Rafinha,21,12/02/1993,177,70,Brazil,FC Barcelona,78,82,"CAM, CM, RM, RW",Left,1,2019
+180695,Lima,30,11/08/1983,178,78,Brazil,SL Benfica,78,78,ST,Right,2,2016
+185000,Thiago Neves,29,27/02/1985,182,70,Brazil,Al Hilal,78,78,"CAM, LM, RM",Left,2,2016
+199304,Danilo,22,15/07/1991,184,76,Brazil,FC Porto,77,84,RB,Right,2,2016
+189681,Rafael,23,09/07/1990,172,78,Brazil,Manchester United,77,82,RB,Right,2,2016
+191687,Maicon,25,14/09/1988,191,82,Brazil,FC Porto,77,80,CB,Right,2,2017
+53405,Maxwell,32,27/08/1981,176,73,Brazil,Paris Saint-Germain,77,77,LB,Left,2,2015
+153260,Hilton,36,13/09/1977,180,77,Brazil,Montpellier HSC,77,77,CB,Right,2,2015
+165816,Jonathan,28,27/02/1986,170,72,Brazil,Inter,77,77,RM,Right,1,2015
+168607,Rafinha,28,07/09/1985,172,68,Brazil,FC Bayern Munchen,77,77,RB,Right,2,2017
+173228,Siqueira,28,28/04/1986,184,76,Brazil,Atletico Madrid,77,77,LB,Left,2,2018
+177649,Rafinha,30,04/08/1983,167,61,Brazil,Al Shabab,77,77,"LM, CAM, RM",Right,1,2018
+180714,Guilherme,28,12/12/1985,197,78,Brazil,Lokomotiv Moscow,77,77,GK,Right,2,2016
+180826,Luiz Adriano,27,12/04/1987,183,76,Brazil,Shakhtar Donetsk,77,77,ST,Right,1,2015
+203038,Lucas Piazon,20,20/01/1994,182,75,Brazil,Eintracht Frankfurt,76,86,"LW, LM",Right,1,2015
+202642,Fernando,22,03/03/1992,174,66,Brazil,Shakhtar Donetsk,76,84,"CDM, CM",Right,1,2017
+194404,Neto,24,19/07/1989,191,83,Brazil,Fiorentina,76,81,GK,Right,1,2015
+200145,Casemiro,22,23/02/1992,184,80,Brazil,FC Porto,76,80,"CDM, CM",Right,1,2015
+187323,Henrique,27,14/10/1986,185,73,Brazil,Napoli,76,77,"CB, CDM, RB",Right,2,2017
+20556,Alan,34,19/09/1979,180,70,Brazil,SC Braga,76,76,"RW, CM",Right,1,2015
+135466,Artur Moraes,33,25/01/1981,192,90,Brazil,SL Benfica,76,76,GK,Right,2,2015
+164029,Charles,30,04/04/1984,177,75,Brazil,RC Celta,76,76,ST,Right,1,2017
+164082,Adriano,29,26/10/1984,172,67,Brazil,FC Barcelona,76,76,"LB, RB, CB",Left,2,2017
+168530,Jardel,28,29/03/1986,192,85,Brazil,SL Benfica,76,76,CB,Right,1,2018
+176957,Felipe Santana,28,17/03/1986,194,85,Brazil,FC Schalke 04,76,76,CB,Right,2,2016
+177573,Weligton,34,26/08/1979,186,71,Brazil,Mailaga,76,76,CB,Left,1,2015
+187896,Wanderson,28,18/02/1986,180,75,Brazil,FC Krasnodar,76,76,ST,Right,2,2016
+209356,Hernane,28,08/04/1986,184,78,Brazil,Al Nassr,76,76,ST,Right,1,2017
+187754,Marlos,26,07/06/1988,174,69,Brazil,Shakhtar Donetsk,75,81,"CAM, LW",Left,1,2019
+184926,Fabiano,26,29/02/1988,197,91,Brazil,FC Porto,75,79,GK,Right,1,2016
+188086,Jefferson,25,05/07/1988,176,78,Brazil,Sporting CP,75,79,LB,Left,1,2017
+188045,Maicon,24,18/02/1990,183,73,Brazil,Lokomotiv Moscow,75,78,"LM, RM, CAM",Right,1,2017
+189488,Bamba Anderson,26,10/01/1988,188,80,Brazil,Eintracht Frankfurt,75,78,CB,Right,1,2015
+219514,Derley,26,29/12/1987,183,81,Brazil,SL Benfica,75,78,ST,Right,1,2018
+194135,Leonardo,27,22/09/1986,173,70,Brazil,Jeonbuk Hyundai Motors,75,77,"CAM, RW, LW, LM",Right,1,2015
+178311,Eder,27,15/11/1986,178,74,Brazil,Sampdoria,75,76,"CF, CAM",Right,2,2017
+156272,Ederson,28,13/01/1986,181,74,Brazil,Lazio,75,75,"CAM, CM",Right,2,2017
+166072,Danilo,30,10/05/1984,185,75,Brazil,Udinese,75,75,CB,Right,2,2018
+168444,Ari,28,11/12/1985,180,82,Brazil,FC Krasnodar,75,75,"ST, RW",Right,2,2016
+183722,Vagner,28,06/06/1986,185,80,Brazil,Estoril Praia,75,75,GK,Right,1,2015
+184704,Marquinho,27,03/07/1986,182,79,Brazil,Al Ittihad,75,75,"LW, CM, LM",Left,1,2015
+209297,Fred,21,05/03/1993,169,64,Brazil,Shakhtar Donetsk,74,83,"CAM, CDM",Left,1,2018
+30110,D. Berbatov,33,30/01/1981,189,75,Bulgaria,AS Monaco,81,81,"ST, CAM",Right,3,2015
+185373,I. Popov,26,26/10/1987,182,78,Bulgaria,Kuban Krasnodar,77,80,CAM,Right,2,2015
+9676,S. Eto'o,33,10/03/1981,179,75,Cameroon,Everton,81,81,ST,Right,3,2016
+157503,A. Song,26,09/09/1987,185,74,Cameroon,West Ham United,80,80,"CDM, CM",Right,3,2015
+183284,A. Chedjou,29,20/06/1985,184,86,Cameroon,Galatasaray SK,80,80,CB,Right,2,2017
+188829,N. Nkoulou,24,27/03/1990,180,77,Cameroon,Olympique de Marseille,79,85,CB,Right,3,2015
+197061,J. Matip,22,08/08/1991,195,90,Cameroon,FC Schalke 04,77,81,"CB, CDM",Right,2,2016
+190582,L. Kweuke,26,12/07/1987,189,94,Cameroon,Rizespor,76,81,ST,Right,1,2017
+183569,E. Choupo-Moting,25,23/03/1989,191,87,Cameroon,FC Schalke 04,76,80,"LM, ST, LW",Right,2,2017
+199069,V. Aboubakar,22,22/01/1992,184,82,Cameroon,FC Porto,76,80,ST,Right,1,2018
+192667,A. Nyom,26,10/05/1988,189,81,Cameroon,Granada CF,76,77,RB,Right,1,2019
+150565,H. Bedimo,30,04/06/1984,180,80,Cameroon,Olympique Lyonnais,76,76,LB,Left,2,2016
+183975,J. Kana-Biyik,24,03/07/1989,183,90,Cameroon,Stade Rennais FC,75,80,CB,Right,2,2015
+164959,S. M'Bia,28,20/05/1986,190,85,Cameroon,Sevilla FC,75,75,"CDM, CM",Right,2,2015
+170903,L. N'Guemo,28,28/11/1985,173,70,Cameroon,Cameroon,75,75,"CDM, CM",Left,2,
+134744,A. Hutchinson,31,08/02/1983,187,73,Canada,Besiktas,78,78,"CDM, RB, CM",Right,2,2015
+181872,A. Vidal,27,22/05/1987,180,75,Chile,Juventus,85,87,"CM, CDM",Right,4,2017
+174543,C. Bravo,31,13/04/1983,185,84,Chile,FC Barcelona,83,83,GK,Right,2,2018
+176903,M. Iturra,30,23/06/1984,172,74,Chile,Granada CF,78,78,"CDM, CM",Left,2,2016
+206655,E. Vargas,24,20/11/1989,175,70,Chile,Queens Park Rangers,77,82,"ST, CAM",Right,2,2015
+187800,M. Isla,26,12/06/1988,177,72,Chile,Queens Park Rangers,76,78,"RM, RWB",Right,2,2015
+193532,G. Medel,26,03/08/1987,171,76,Chile,Inter,76,77,"CDM, CM",Right,2,2017
+24248,D. Pizarro,34,11/09/1979,170,65,Chile,Fiorentina,75,75,"CDM, CM",Right,2,2018
+196073,E. Paredes,33,01/08/1980,178,78,Chile,Colo-Colo,75,75,ST,Left,2,2019
+167397,Falcao,28,10/02/1986,177,72,Colombia,Manchester United,88,88,ST,Right,4,2015
+193082,J. Cuadrado,26,26/05/1988,176,66,Colombia,Fiorentina,83,87,"RM, LM",Right,3,2017
+207664,C. Bacca,27,08/09/1986,181,77,Colombia,Sevilla FC,81,81,ST,Right,2,2018
+176619,A. Ramos,28,22/01/1986,186,81,Colombia,Borussia Dortmund,79,79,ST,Right,2,2018
+210513,J. Quintero,21,18/01/1993,169,64,Colombia,FC Porto,78,86,"CAM, LW",Left,2,2017
+212351,P. Franco,23,23/04/1991,183,73,Colombia,Besiktas,78,82,"CB, CDM",Right,1,2018
+176550,D. Ospina,25,31/08/1988,183,79,Colombia,Arsenal,77,82,GK,Right,2,2018
+177983,C. Zapata,27,30/09/1986,187,82,Colombia,Milan,77,78,CB,Right,2,2016
+190919,F. Montero,26,26/07/1987,176,74,Colombia,Sporting CP,76,79,ST,Right,2,2018
+204550,V. Ibarbo,24,19/05/1990,188,78,Colombia,Cagliari,75,81,"ST, RW",Right,1,2017
+212067,C. Vargas,25,09/03/1989,185,86,Colombia,Independiente Santa Fe,75,80,GK,Left,1,2020
+46590,C. Samba,30,28/03/1984,193,100,Congo,Dinamo Moscow,77,77,CB,Right,2,2020
+193041,K. Navas,27,15/12/1986,185,78,Costa Rica,Real Madrid,79,82,GK,Right,3,2020
+204713,J. Campbell,22,10/02/1992,178,72,Costa Rica,Arsenal,75,83,"RM, LM",Left,1,2015
+195086,D. Lovren,24,05/07/1989,188,84,Croatia,Liverpool,80,82,CB,Right,2,2019
+139997,D. Srna,32,01/05/1982,178,72,Croatia,Shakhtar Donetsk,79,79,RB,Right,3,2016
+190502,G. Sertic,24,05/08/1989,183,76,Croatia,FC Girondins de Bordeaux,77,82,"CDM, CM",Right,1,2017
+201144,M. Badelj,25,25/02/1989,186,76,Croatia,Fiorentina,76,79,"CM, CDM",Right,2,2019
+190971,O. Alonso,28,11/11/1985,180,75,Cuba,Seattle Sounders FC,76,76,"CDM, CM",Right,1,2016
+201262,V. Darida,23,08/08/1990,172,66,Czech Republic,SC Freiburg,77,81,"CM, CDM",Right,2,2018
+155989,T. Sivok,30,15/09/1983,185,77,Czech Republic,Besiktas,76,76,CB,Right,2,2015
+181281,T. Necid,24,13/08/1989,190,81,Czech Republic,PEC Zwolle,75,80,ST,Right,2,2015
+201122,T. Kalas,21,15/05/1993,182,73,Czech Republic,FC Koln,74,81,"CB, RB",Right,1,2017
+190460,C. Eriksen,22,14/02/1992,177,71,Denmark,Tottenham Hotspur,82,88,"CAM, LM",Right,3,2018
+152039,D. Agger,29,12/12/1984,191,79,Denmark,Brondby,81,81,CB,Left,3,2016
+135043,A. Lindegaard,30,13/04/1984,193,79,Denmark,Manchester United,77,77,GK,Right,2,2016
+203965,V. Fischer,20,09/06/1994,180,71,Denmark,Ajax,75,84,LW,Right,1,2017
+193290,M. Braithwaite,23,05/06/1991,180,77,Denmark,Toulouse Football Club,75,79,ST,Right,1,2017
+172522,D. Wass,25,31/05/1989,181,74,Denmark,Ã‰vian Thonon Gaillard FC,75,77,"RM, RB",Right,2,2016
+183781,A. Bjelland,25,11/07/1988,188,85,Denmark,FC Twente,75,77,CB,Left,1,2016
+167706,N. Bendtner,26,16/01/1988,194,89,Denmark,VfL Wolfsburg,75,76,ST,Right,2,2017
+130687,L. Andreasen,31,23/04/1983,188,81,Denmark,Hannover 96,75,75,"CDM, CM, CB",Right,2,2015
+159240,M. Krohn-Dehli,31,06/06/1983,172,71,Denmark,RC Celta,75,75,"CM, CDM, CAM",Right,2,2015
+179544,Y. Mulumbu,27,25/01/1987,175,76,DR Congo,West Bromwich Albion,76,79,"CDM, CM",Right,2,2015
+167905,A. Valencia,28,04/08/1985,181,78,Ecuador,Manchester United,80,80,"RM, RWB",Right,3,2017
+187457,C. Noboa,29,08/04/1985,183,75,Ecuador,Dinamo Moscow,76,76,"CDM, CAM",Right,2,2018
+175254,F. Caicedo,25,05/09/1988,180,81,Ecuador,RCD Espanyol,75,80,ST,Left,2,2016
+209331,M. Salah,22,15/06/1992,175,72,Egypt,Chelsea,76,84,RM,Left,1,2020
+212469,A. Ghazal,22,01/02/1992,189,84,Egypt,CD Nacional,74,81,CDM,Right,1,2017
+54050,W. Rooney,28,24/10/1985,176,83,England,Manchester United,86,86,"ST, CF, CAM",Right,4,2019
+171833,D. Sturridge,24,01/09/1989,183,76,England,Liverpool,83,86,"ST, RW",Left,3,2018
+13732,J. Terry,33,07/12/1980,187,90,England,Chelsea,83,83,CB,Right,3,2015
+150724,J. Hart,27,19/04/1987,196,91,England,Manchester City,82,83,GK,Right,3,2016
+13743,S. Gerrard,34,30/05/1980,183,83,England,Liverpool,82,82,"CDM, CM",Right,4,2015
+163631,L. Baines,29,11/12/1984,170,70,England,Everton,82,82,LB,Left,3,2018
+164859,T. Walcott,25,16/03/1989,176,68,England,Arsenal,81,85,RM,Right,3,2016
+189461,J. Wilshere,22,01/01/1992,172,68,England,Arsenal,81,85,"CM, CDM, LM",Left,3,2018
+34079,A. Cole,33,20/12/1980,176,66,England,Roma,81,81,LB,Left,3,2016
+164468,G. Cahill,28,19/12/1985,193,86,England,Chelsea,81,81,CB,Right,2,2015
+202652,R. Sterling,19,08/12/1994,170,69,England,Liverpool,80,86,"RW, LW, CAM",Right,3,2016
+6826,G. Barry,33,23/02/1981,183,79,England,Everton,80,80,CDM,Left,2,2017
+50542,J. Defoe,31,07/10/1982,170,70,England,Toronto FC,80,80,ST,Right,2,2020
+194957,P. Jones,22,21/02/1992,183,71,England,Manchester United,79,84,"CB, RB, CM",Right,2,2016
+180819,A. Lallana,26,10/05/1988,173,72,England,Liverpool,79,83,"CAM, RM, LM",Right,2,2019
+5471,F. Lampard,36,20/06/1978,184,89,England,Manchester City,79,79,"CM, CDM",Right,3,2016
+7289,R. Ferdinand,35,07/11/1978,196,86,England,Queens Park Rangers,79,79,CB,Right,3,2015
+21146,M. Carrick,32,28/07/1981,188,74,England,Manchester United,79,79,"CM, CDM",Right,3,2015
+53914,P. Jagielka,31,17/08/1982,183,83,England,Everton,79,79,CB,Right,2,2017
+120312,M. Dawson,30,18/11/1983,188,76,England,Hull City,79,79,CB,Right,2,2017
+138726,J. Lescott,31,16/08/1982,188,89,England,West Bromwich Albion,79,79,CB,Left,2,2016
+152747,A. Lennon,27,16/04/1987,165,63,England,Tottenham Hotspur,79,79,"RM, LM",Right,2,2016
+198784,A. Oxlade-Chamberlain,20,15/08/1993,175,70,England,Arsenal,78,86,"RM, CM, RW",Right,2,2017
+199189,R. Barkley,20,05/12/1993,189,76,England,Everton,78,86,CAM,Right,2,2018
+183711,J. Henderson,24,17/06/1990,182,67,England,Liverpool,78,83,CM,Right,2,2016
+186146,D. Welbeck,23,26/11/1990,185,73,England,Arsenal,78,83,"ST, CF, LM",Right,2,2019
+186115,K. Gibbs,24,26/09/1989,178,70,England,Arsenal,78,82,LB,Left,2,2018
+169596,R. Shawcross,26,04/10/1987,191,76,England,Stoke City,78,79,CB,Right,2,2018
+138412,J. Milner,28,04/01/1986,176,70,England,Manchester City,78,78,"RM, CM",Right,2,2015
+152908,A. Young,28,09/07/1985,175,65,England,Manchester United,78,78,"LM, LWB",Right,3,2016
+163155,B. Foster,31,03/04/1983,193,90,England,West Bromwich Albion,78,78,GK,Left,2,2018
+188377,K. Walker,24,28/05/1990,178,74,England,Tottenham Hotspur,77,81,RB,Right,2,2019
+182836,A. Carroll,25,06/01/1989,191,79,England,West Ham United,77,80,ST,Left,2,2019
+169721,M. Richards,26,24/06/1988,180,82,England,Fiorentina,77,79,RB,Right,2,2015
+163600,J. Ruddy,27,24/10/1986,193,97,England,Norwich City,77,78,GK,Right,2,2017
+54013,S. Downing,29,22/07/1984,180,65,England,West Ham United,77,77,"RM, LM",Left,2,2017
+165740,A. Johnson,26,14/07/1987,175,63,England,Sunderland,77,77,"RM, LM",Left,2,2016
+183465,J. Rodwell,23,11/03/1991,188,71,England,Sunderland,76,82,CM,Right,2,2019
+193504,S. Caulker,22,29/12/1991,191,77,England,Queens Park Rangers,76,82,CB,Right,2,2018
+189881,C. Smalling,24,22/11/1989,192,81,England,Manchester United,76,81,"CB, RB",Right,2,2016
+8517,S. Parker,33,13/10/1980,175,69,England,Fulham,76,76,"CDM, CM",Right,2,2016
+13879,R. Lambert,32,16/02/1982,188,77,England,Liverpool,76,76,ST,Right,2,2016
+137782,G. Johnson,29,23/08/1984,182,70,England,Liverpool,76,76,"RB, LB",Right,3,2015
+158804,L. Osman,33,17/05/1981,173,64,England,Everton,76,76,"CM, CAM",Right,2,2015
+163571,M. Jarvis,28,22/05/1986,170,73,England,West Ham United,76,76,"LM, RM",Right,2,2017
+205988,L. Shaw,18,12/07/1995,185,75,England,Manchester United,75,86,LB,Left,2,2018
+183427,F. Delph,24,21/11/1989,174,60,England,Aston Villa,75,81,"CM, CDM",Left,1,2015
+190456,N. Clyne,23,05/04/1991,175,67,England,Southampton,75,81,"RB, LB",Right,2,2016
+172203,F. Forster,26,17/03/1988,201,93,England,Southampton,75,80,GK,Left,1,2018
+189324,A. McCarthy,24,03/12/1989,193,79,England,Queens Park Rangers,75,80,GK,Right,1,2018
+169792,J. Rodriguez,24,29/07/1989,185,70,England,Southampton,75,79,"LM, ST",Right,2,2016
+54033,T. Huddlestone,27,28/12/1986,188,78,England,Hull City,75,78,"CM, CDM",Right,2,2016
+169607,L. Cattermole,26,21/03/1988,178,76,England,Sunderland,75,78,"CDM, CM",Right,2,2016
+169706,J. Cork,25,25/06/1989,185,69,England,Southampton,75,78,"CDM, CM",Right,1,2015
+164462,N. Onuoha,27,12/11/1986,188,78,England,Queens Park Rangers,75,77,CB,Right,2,2016
+152879,M. Noble,27,08/05/1987,180,76,England,West Ham United,75,76,"CM, CDM",Right,2,2016
+13130,W. Brown,34,13/10/1979,185,77,England,Sunderland,75,75,CB,Right,2,2015
+51257,P. Crouch,33,30/01/1981,201,84,England,Stoke City,75,75,ST,Right,3,2015
+51394,K. Nolan,32,24/06/1982,183,88,England,West Ham United,75,75,"CAM, CM",Right,2,2016
+54051,W. Routledge,29,07/01/1985,170,77,England,Swansea City,75,75,"LM, LW",Right,2,2016
+101880,R. Green,34,18/01/1980,191,93,England,Queens Park Rangers,75,75,GK,Right,2,2016
+134941,S. Sidwell,31,14/12/1982,183,80,England,Stoke City,75,75,"CDM, CM",Right,2,2016
+138193,J. Barton,31,02/09/1982,180,76,England,Queens Park Rangers,75,75,"CDM, CM",Right,2,2015
+140415,L. Britton,31,16/09/1982,167,65,England,Swansea City,75,75,"CM, CDM",Right,2,2017
+152741,M. Williamson,30,08/11/1983,194,92,England,Newcastle United,75,75,CB,Right,2,2016
+159034,S. Taylor,28,23/01/1986,186,91,England,Newcastle United,75,75,CB,Right,2,2016
+163761,C. Davies,29,15/03/1985,188,89,England,Hull City,75,75,CB,Right,2,2016
+205569,J. Ward-Prowse,19,01/11/1994,173,66,England,Southampton,74,85,"CM, RM, CAM",Right,1,2017
+201155,R. Morrison,21,02/02/1993,175,71,England,West Ham United,74,84,"CAM, CM",Right,1,2015
+194932,A. Townsend,22,16/07/1991,181,81,England,Tottenham Hotspur,74,82,"RM, LM",Left,1,2017
+189165,J. Shelvey,22,27/02/1992,184,83,England,Swansea City,74,80,"CAM, CM",Right,2,2017
+156142,R. Eremenko,27,19/03/1987,180,67,Finland,PFC CSKA Moscow,79,81,"CAM, LM",Right,2,2018
+172862,N. Moisander,28,29/09/1985,182,75,Finland,Ajax,76,76,CB,Left,2,2015
+172233,P. Hetemaj,27,12/12/1986,175,76,Finland,Chievo Verona,75,80,"CM, CAM",Right,1,2021
+165153,K. Benzema,26,19/12/1987,184,79,France,Real Madrid,85,87,ST,Right,4,2019
+167948,H. Lloris,27,26/12/1986,188,78,France,Tottenham Hotspur,85,86,GK,Left,3,2019
+165239,S. Nasri,27,26/06/1987,175,75,France,Manchester City,84,86,"LM, RM",Right,3,2019
+195864,P. Pogba,21,15/03/1993,188,80,France,Juventus,83,89,"CM, CAM",Right,3,2016
+170890,B. Matuidi,27,09/04/1987,175,70,France,Paris Saint-Germain,83,85,"CDM, CM",Left,3,2018
+167628,S. Ruffier,27,27/09/1986,188,90,France,Saint-Atienne,83,84,GK,Right,3,2015
+112253,J. Toulalan,30,10/09/1983,183,77,France,AS Monaco,83,83,"CDM, CM",Right,3,2015
+194765,A. Griezmann,23,21/03/1991,176,68,France,Atletico Madrid,82,88,"LW, LM",Left,2,2020
+163705,S. Mandanda,29,28/03/1985,185,82,France,Olympique de Marseille,82,82,GK,Right,3,2016
+201535,R. Varane,21,25/04/1993,191,78,France,Real Madrid,81,88,CB,Right,3,2020
+212218,A. Laporte,20,27/05/1994,189,85,France,Athletic Club de Bilbao,81,88,"CB, LB",Left,2,2018
+183285,M. Sakho,24,13/02/1990,187,83,France,Liverpool,81,83,CB,Left,3,2018
+116494,C. Carrasso,32,30/12/1981,187,87,France,FC Girondins de Bordeaux,81,81,GK,Right,3,2015
+165229,L. Koscielny,28,10/09/1985,186,75,France,Arsenal,81,81,CB,Right,3,2019
+167943,Y. Cabaye,28,14/01/1986,175,72,France,Paris Saint-Germain,81,81,"CM, CAM, CDM",Right,3,2017
+177326,M. Valbuena,29,28/09/1984,167,58,France,Dinamo Moscow,81,81,"CAM, RW",Right,3,2017
+190531,E. Mangala,23,13/02/1991,187,84,France,Manchester City,80,86,CB,Left,2,2019
+177358,M. Schneiderlin,24,08/11/1989,181,75,France,Southampton,80,84,"CDM, CM",Right,2,2017
+193116,M. Gonalons,25,10/03/1989,187,76,France,Olympique Lyonnais,80,84,"CDM, CB",Right,2,2016
+52091,P. Evra,33,15/05/1981,173,76,France,Juventus,80,80,"LB, LM",Left,3,2016
+112316,J. Mathieu,30,29/10/1983,192,82,France,FC Barcelona,80,80,"CB, LB, LM",Left,2,2018
+150656,R. Mavuba,30,08/03/1984,172,74,France,LOSC Lille,80,80,CDM,Right,3,2015
+152554,G. Clichy,28,26/07/1985,176,65,France,Manchester City,80,80,LB,Left,3,2017
+158626,M. Debuchy,28,28/07/1985,178,76,France,Arsenal,80,80,RB,Right,3,2017
+159147,L. Perrin,28,07/08/1985,180,76,France,Saint-Atienne,80,80,CB,Right,2,2016
+163419,B. Sagna,31,14/02/1983,176,72,France,Manchester City,80,80,RB,Right,3,2017
+193476,R. Cabella,24,08/03/1990,172,66,France,Newcastle United,79,85,CAM,Right,2,2020
+193301,A. Lacazette,23,28/05/1991,175,73,France,Olympique Lyonnais,79,84,"ST, RW, CF",Right,2,2018
+176600,K. Gameiro,27,09/05/1987,178,72,France,Sevilla FC,79,83,ST,Right,3,2018
+184312,J. Biabiany,26,28/04/1988,177,70,France,Parma,79,83,"RW, LW",Right,2,2018
+163418,Y. Kaboul,28,04/01/1986,191,87,France,Tottenham Hotspur,79,79,CB,Right,2,2016
+163711,L. Diarra,29,10/03/1985,173,73,France,Lokomotiv Moscow,79,79,"CDM, CM",Right,3,2017
+178509,O. Giroud,27,30/09/1986,192,88,France,Arsenal,79,79,ST,Left,3,2017
+178213,E. Capoue,25,11/07/1988,189,80,France,Tottenham Hotspur,78,83,"CDM, CB",Right,2,2017
+177388,D. Payet,27,29/03/1987,175,77,France,Olympique de Marseille,78,81,"LM, RM",Right,3,2017
+187052,Y. M'Vila,24,29/06/1990,182,80,France,Inter,78,81,"CDM, CM",Right,2,2015
+192722,R. Hamouma,27,29/03/1987,177,74,France,Saint-Atienne,78,81,"RW, RM, CAM",Right,2,2016
+158121,B. Costil,26,03/07/1987,187,83,France,Stade Rennais FC,78,79,GK,Right,2,2017
+1625,T. Henry,36,17/08/1977,188,83,France,New York Red Bulls,78,78,"CF, ST, LM",Right,3,2020
+153244,A. Gignac,28,05/12/1985,186,84,France,Olympique de Marseille,78,78,ST,Right,3,2015
+159145,B. Gomis,28,06/08/1985,184,77,France,Swansea City,78,78,ST,Right,3,2018
+161648,H. Ben Arfa,27,07/03/1987,178,76,France,Hull City,78,78,"RM, RW, CAM",Left,2,2015
+183280,A. Rami,28,27/12/1985,190,88,France,Milan,78,78,CB,Right,2,2017
+187924,C. Grenier,23,07/01/1991,186,72,France,Olympique Lyonnais,77,85,"CAM, CM",Right,1,2016
+204970,F. Thauvin,21,26/01/1993,179,70,France,Olympique de Marseille,77,84,"RM, CAM, RW, ST",Left,1,2018
+199451,W. Ben Yedder,23,12/08/1990,170,68,France,Toulouse Football Club,77,81,"ST, CF",Right,1,2017
+182212,A. Modeste,26,14/04/1988,186,83,France,TSG 1899 Hoffenheim,77,79,ST,Right,2,2016
+26992,S. Distin,36,16/12/1977,192,88,France,Everton,77,77,CB,Left,2,2015
+45601,F. Malouda,34,13/06/1980,181,73,France,FC Metz,77,77,"LM, CAM",Left,3,2015
+153296,Y. Gourcuff,27,11/07/1986,185,79,France,Olympique Lyonnais,77,77,"CAM, LM",Right,3,2015
+156722,M. Flamini,30,07/03/1984,178,67,France,Arsenal,77,77,"CDM, CM",Right,2,2016
+201510,L. Kurzawa,21,04/09/1992,182,73,France,AS Monaco,76,85,LB,Left,1,2018
+200458,L. Digne,20,20/07/1993,178,74,France,Paris Saint-Germain,76,83,LB,Left,2,2018
+205600,S. Umtiti,20,14/11/1993,181,75,France,Olympique Lyonnais,76,82,"CB, LB",Left,1,2017
+181560,M. Yanga-M'Biwa,25,15/05/1989,184,77,France,Roma,76,81,"CB, RB",Right,2,2015
+184575,R. Alessandrini,25,03/04/1989,173,70,France,Olympique de Marseille,76,80,"LM, LW",Left,2,2018
+188654,T. Heurtaux,25,03/07/1988,184,78,France,Udinese,76,80,"CB, RB",Right,1,2017
+198200,B. Stambouli,23,13/08/1990,180,80,France,Tottenham Hotspur,76,80,"CDM, CB",Right,1,2019
+52126,F. Balmont,34,02/02/1980,168,72,France,LOSC Lille,76,76,CM,Right,2,2017
+163423,A. Diaby,28,11/05/1986,190,76,France,Arsenal,76,76,"CM, CDM",Right,3,2015
+165434,D. Digard,27,12/07/1986,183,76,France,OGC Nice,76,76,CDM,Right,1,2016
+203280,V. Germain,24,17/04/1990,180,73,France,AS Monaco,75,81,"ST, RW",Right,1,2017
+183394,M. Sissoko,24,16/08/1989,187,83,France,Newcastle United,75,80,"RM, CM",Right,3,2019
+188696,F. Tabanou,25,30/01/1989,178,70,France,Saint-Atienne,75,80,"LM, LB",Left,1,2017
+188816,G. Fofana,23,16/05/1991,182,74,France,Olympique Lyonnais,75,80,"CM, CDM, RB, CB",Right,1,2017
+191210,S. Corchia,23,01/11/1990,176,64,France,LOSC Lille,75,80,"RB, RM",Right,2,2018
+201455,G. Kondogbia,21,15/02/1993,188,80,France,AS Monaco,75,80,"CDM, CM",Left,1,2018
+183800,Y. Mollo,24,18/07/1989,175,80,France,Saint-Atienne,75,79,"LW, LM",Right,1,2017
+201982,J. Schmid,24,22/06/1990,179,78,France,SC Freiburg,75,78,"RM, LM",Right,1,2018
+49488,E. Didot,30,24/07/1983,175,65,France,Toulouse Football Club,75,75,"CM, CDM",Right,1,2017
+112365,R. Cohade,29,29/09/1984,180,74,France,Saint-Atienne,75,75,CM,Right,2,2017
+137114,M. Ciani,30,06/04/1984,192,88,France,Lazio,75,75,CB,Right,2,2016
+137960,Y. Jouffre,29,23/07/1984,175,65,France,FC Lorient,75,75,"RM, CF, CDM",Left,1,2016
+141645,E. Abidal,34,11/09/1979,186,74,France,Olympiacos CFP,75,75,"CB, LB",Left,3,2015
+150590,C. Jallet,30,31/10/1983,178,70,France,Olympique Lyonnais,75,75,RB,Right,2,2017
+161700,F. Clerc,31,18/04/1983,186,77,France,Saint-Atienne,75,75,RB,Right,2,2015
+161999,A. Konko,30,09/03/1984,184,71,France,Lazio,75,75,RB,Right,2,2016
+164978,C. N'Zogbia,28,28/05/1986,171,70,France,Aston Villa,75,75,"CAM, LM, RM",Left,2,2016
+168293,M. Amalfitano,29,20/03/1985,176,68,France,West Ham United,75,75,RM,Right,2,2015
+172290,Zurutuza,27,19/07/1986,186,78,France,Real Sociedad,75,75,"CAM, CM",Right,1,2017
+204338,C. Kerbrat,27,02/08/1986,185,74,France,En Avant de Guingamp,75,75,CB,Right,1,2018
+204077,M. Niang,19,19/12/1994,184,75,France,Milan,74,84,"RW, ST",Right,1,2017
+204311,K. Zouma,19,27/10/1994,187,85,France,Chelsea,74,84,"CB, RB",Right,1,2019
+197678,A. Ahamada,22,19/08/1991,189,87,France,Toulouse Football Club,74,80,GK,Right,1,2015
+198118,J. Guilavogui,23,19/09/1990,188,77,France,VfL Wolfsburg,74,80,"CDM, CM",Right,1,2016
+137506,G. Pandev,30,27/07/1983,184,74,FYR Macedonia,Galatasaray SK,78,78,"CF, CAM",Left,2,2015
+116620,N. Noveski,35,28/04/1979,190,87,FYR Macedonia,1. FSV Mainz 05,75,75,CB,Right,2,2015
+188567,P. Aubameyang,25,18/06/1989,187,77,Gabon,Borussia Dortmund,79,82,"RM, ST, RW",Right,2,2018
+193897,J. Ananidze,21,10/10/1992,170,61,Georgia,Spartak Moscow,75,82,"CAM, LM",Right,2,2017
+167495,M. Neuer,28,27/03/1986,193,92,Germany,FC Bayern Munchen,90,90,GK,Right,5,2019
+121944,B. Schweinsteiger,29,01/08/1984,183,79,Germany,FC Bayern Munchen,88,88,"CM, CDM",Right,4,2016
+121939,P. Lahm,30,11/11/1983,170,66,Germany,FC Bayern Munchen,87,87,"CDM, RB, CM",Right,4,2018
+178603,M. Hummels,25,16/12/1988,192,90,Germany,Borussia Dortmund,86,88,CB,Right,4,2017
+188350,M. Reus,25,31/05/1989,181,73,Germany,Borussia Dortmund,86,88,"LM, RM, ST, CAM",Right,3,2017
+182521,T. Kroos,24,04/01/1990,182,78,Germany,Real Madrid,85,88,"CM, CDM, CAM",Right,4,2020
+183907,J. Boateng,25,03/09/1988,192,90,Germany,FC Bayern Munchen,85,86,"CB, RB",Right,4,2018
+179846,S. Khedira,27,04/04/1987,189,85,Germany,Real Madrid,84,86,"CDM, CM",Right,3,2015
+2196,R. Weidenfeller,33,06/08/1980,188,85,Germany,Borussia Dortmund,83,83,GK,Left,3,2016
+53612,P. Mertesacker,29,29/09/1984,198,90,Germany,Arsenal,83,83,CB,Right,3,2017
+192448,M. ter Stegen,22,30/04/1992,189,82,Germany,FC Barcelona,82,88,GK,Right,2,2019
+192563,B. Leno,22,04/03/1992,190,82,Germany,Bayer 04 Leverkusen,82,85,GK,Right,2,2018
+121933,R. Adler,29,15/01/1985,191,87,Germany,Hamburger SV,82,82,GK,Right,2,2017
+150418,M. Gomez,28,10/07/1985,189,88,Germany,Fiorentina,82,82,ST,Right,3,2017
+177457,L. Bender,25,27/04/1989,184,77,Germany,Bayer 04 Leverkusen,81,84,"CM, CDM",Right,3,2019
+177458,S. Bender,25,27/04/1989,185,72,Germany,Borussia Dortmund,81,83,CDM,Right,2,2017
+11141,M. Klose,36,09/06/1978,184,84,Germany,Lazio,81,81,ST,Right,4,2015
+202166,J. Draxler,20,20/09/1993,187,75,Germany,FC Schalke 04,80,85,"LM, CAM, RM",Right,2,2018
+188943,K. Trapp,23,08/07/1990,189,83,Germany,Eintracht Frankfurt,80,84,GK,Right,2,2016
+192620,H. Badstuber,25,13/03/1989,190,84,Germany,FC Bayern Munchen,80,84,"CB, LB",Left,3,2017
+177934,S. Sam,26,31/01/1988,174,68,Germany,FC Schalke 04,80,83,"RW, CF, RM",Left,2,2018
+167431,G. Castro,27,11/06/1987,172,73,Germany,Bayer 04 Leverkusen,80,82,"CM, RM, RB, CF",Right,2,2016
+186148,R. Zieler,25,12/02/1989,188,83,Germany,Hannover 96,79,84,GK,Right,2,2017
+200610,K. Volland,21,30/07/1992,179,82,Germany,TSG 1899 Hoffenheim,79,84,"RM, CF, ST",Left,2,2017
+186569,S. Ulreich,25,03/08/1988,192,84,Germany,VfB Stuttgart,79,82,GK,Right,2,2017
+177105,P. Ebert,27,17/03/1987,175,72,Germany,Spartak Moscow,78,82,RM,Right,2,2017
+198196,P. Lasogga,22,15/12/1991,189,88,Germany,Hamburger SV,78,82,ST,Right,2,2019
+183574,M. Kruse,26,19/03/1988,180,76,Germany,Borrusia Munchengladbach,78,81,"CF, ST",Left,2,2017
+193698,O. Baumann,24,02/06/1990,187,80,Germany,TSG 1899 Hoffenheim,78,81,GK,Right,2,2018
+187072,L. Stindl,25,26/08/1988,180,78,Germany,Hannover 96,78,80,"RM, CDM, CAM, CM",Right,2,2016
+188802,M. Schmelzer,26,22/01/1988,181,74,Germany,Borussia Dortmund,78,80,LB,Left,2,2017
+189246,S. Reinartz,25,01/01/1989,189,87,Germany,Bayer 04 Leverkusen,78,80,"CDM, CM, CB",Right,2,2015
+5485,S. Kehl,34,13/02/1980,188,80,Germany,Borussia Dortmund,78,78,CDM,Left,2,2015
+121122,S. Rolfes,32,21/01/1982,191,83,Germany,Bayer 04 Leverkusen,78,78,"CDM, CM",Left,2,2015
+158138,A. Hunt,27,04/09/1986,183,73,Germany,VfL Wolfsburg,78,78,"CAM, CM, LM",Left,2,2017
+158856,C. Gentner,28,14/08/1985,189,81,Germany,VfB Stuttgart,78,78,"CM, CDM",Left,2,2016
+192227,S. Mustafi,22,17/04/1992,184,82,Germany,Valencia CF,77,85,CB,Right,2,2019
+207862,M. Ginter,20,19/01/1994,189,87,Germany,Borussia Dortmund,77,85,"CB, CDM, CM",Right,2,2019
+204024,C. Kramer,23,19/02/1991,189,82,Germany,Borrusia Munchengladbach,77,83,"CDM, CM",Right,2,2015
+179546,M. Marin,26,13/03/1988,170,64,Germany,Fiorentina,77,82,"CAM, LM",Right,2,2015
+200215,S. Rode,23,11/10/1990,179,67,Germany,FC Bayern Munchen,77,82,"CDM, CM",Right,2,2017
+188154,L. Holtby,23,18/09/1990,176,72,Germany,Hamburger SV,77,81,"CAM, CM, CDM",Left,2,2015
+192658,S. Jung,24,22/06/1990,179,72,Germany,VfL Wolfsburg,77,81,RB,Right,2,2018
+177519,S. Tasci,27,24/04/1987,186,80,Germany,Spartak Moscow,77,80,CB,Right,2,2017
+137351,D. Baier,30,18/05/1984,175,73,Germany,FC Augsburg,77,77,CDM,Right,2,2016
+150516,L. Podolski,29,04/06/1985,182,83,Germany,Arsenal,77,77,"LM, LW, ST",Left,3,2016
+164493,M. Jansen,28,04/11/1985,191,89,Germany,Hamburger SV,77,77,"LB, LM",Left,2,2015
+167237,P. Helmes,30,01/03/1984,182,78,Germany,FC Koln,77,77,ST,Right,2,2016
+202087,J. Geis,20,17/08/1993,181,81,Germany,1. FSV Mainz 05,76,82,CDM,Right,1,2017
+198077,P. Herrmann,23,12/02/1991,179,70,Germany,Borrusia Munchengladbach,76,80,RM,Right,2,2016
+176790,S. Aigner,26,20/08/1987,185,72,Germany,Eintracht Frankfurt,76,79,"RM, ST",Right,1,2018
+190520,T. Jantschke,24,07/04/1990,177,77,Germany,Borrusia Munchengladbach,76,79,"CB, RB",Right,2,2018
+198202,P. Wollscheid,25,06/03/1989,194,88,Germany,1. FSV Mainz 05,76,79,CB,Right,2,2015
+164491,D. Aogo,27,14/01/1987,184,85,Germany,FC Schalke 04,76,78,"LB, CDM, LM",Left,2,2017
+189251,S. Rudy,24,28/02/1990,179,73,Germany,TSG 1899 Hoffenheim,76,78,"CM, CDM",Right,2,2017
+197083,D. Caligiuri,26,15/01/1988,182,79,Germany,VfL Wolfsburg,76,78,"LM, RM",Right,2,2017
+49012,K. Kuranyi,32,02/03/1982,190,88,Germany,Dinamo Moscow,76,76,ST,Right,2,2015
+107713,T. Starke,33,18/03/1981,194,91,Germany,FC Bayern Munchen,76,76,GK,Right,2,2015
+121170,A. Meier,31,17/01/1983,196,84,Germany,Eintracht Frankfurt,76,76,"CAM, ST, CM",Right,2,2017
+137785,R. Huth,29,18/08/1984,191,88,Germany,Stoke City,76,76,CB,Right,2,2016
+212150,M. Meyer,18,18/09/1995,173,68,Germany,FC Schalke 04,75,87,"CAM, LM",Right,1,2018
+206511,M. Arnold,20,27/05/1994,184,74,Germany,VfL Wolfsburg,75,82,"CAM, LM, CM",Left,1,2017
+203030,R. Knoche,22,22/05/1992,190,77,Germany,VfL Wolfsburg,75,81,CB,Right,1,2017
+203106,L. Bittencourt,20,19/12/1993,171,62,Germany,Hannover 96,75,81,"LM, RM",Right,1,2017
+179954,T. Kraft,25,22/07/1988,187,78,Germany,Hertha BSC,75,79,GK,Right,2,2015
+189390,B. Oczipka,25,12/01/1989,184,87,Germany,Eintracht Frankfurt,75,78,LB,Left,2,2015
+193420,M. Schmiedebach,25,05/12/1988,170,70,Germany,Hannover 96,75,78,"CDM, CM, RM",Right,2,2016
+202857,K. Bellarabi,24,08/04/1990,183,78,Germany,Bayer 04 Leverkusen,75,78,"RM, RW, CF",Right,1,2016
+211862,A. Hahn,23,13/08/1990,185,80,Germany,Borrusia Munchengladbach,75,78,"RM, LM",Right,2,2018
+183426,D. Schwaab,25,23/08/1988,186,76,Germany,VfB Stuttgart,75,77,"CB, RB",Right,2,2016
+189235,J. Hegeler,26,22/01/1988,193,86,Germany,Hertha BSC,75,77,"CM, CAM, RM",Right,2,2017
+52270,H. Westermann,30,14/08/1983,190,87,Germany,Hamburger SV,75,75,"CB, RB, LB",Right,2,2015
+111206,S. Riether,31,23/03/1983,174,72,Germany,SC Freiburg,75,75,"RB, CDM",Right,2,2017
+150532,P. Ochs,30,14/05/1984,179,71,Germany,VfL Wolfsburg,75,75,"RB, RM",Right,2,2015
+208333,E. Can,20,12/01/1994,184,82,Germany,Liverpool,74,83,"CM, CDM, LM, LB",Right,1,2019
+173909,K. Boateng,27,06/03/1987,186,86,Ghana,FC Schalke 04,80,82,"CM, CAM, CDM, ST",Right,3,2017
+186832,K. Asamoah,25,09/12/1988,178,78,Ghana,Juventus,79,83,"LM, CM",Left,2,2017
+176571,A. Ayew,24,17/12/1989,176,72,Ghana,Olympique de Marseille,78,82,"LM, CAM",Left,3,2015
+205601,C. Atsu,22,10/01/1992,172,68,Ghana,Everton,76,81,"LW, CAM, RW",Left,1,2015
+188337,M. Wakaso,23,25/07/1990,171,72,Ghana,Celtic,76,80,"LM, RM",Left,1,2015
+123621,S. Muntari,29,27/08/1984,179,76,Ghana,Milan,76,76,"CDM, CM",Left,2,2016
+45674,M. Essien,31,03/12/1982,177,85,Ghana,Milan,75,75,CDM,Right,3,2015
+172879,Sokratis,26,09/06/1988,185,85,Greece,Borussia Dortmund,82,84,"CB, RB",Right,2,2018
+184477,K. Papadopoulos,22,23/02/1992,183,85,Greece,Bayer 04 Leverkusen,78,84,"CB, CDM",Right,2,2015
+183483,K. Mitroglou,26,12/03/1988,189,94,Greece,Olympiacos CFP,78,81,"ST, CF",Left,2,2018
+192774,K. Manolas,23,14/06/1991,186,79,Greece,Roma,76,80,CB,Right,1,2019
+197117,I. Fetfatzidis,23,21/12/1990,168,64,Greece,Genoa,75,80,"RW, LW, CF",Left,1,2017
+150309,D. Salpingidis,32,18/08/1981,172,71,Greece,PAOK,75,75,"ST, RM, RW, LM",Right,2,2017
+203528,L. Bangoura,22,30/03/1992,175,72,Guinea,Rayo Vallecano,77,80,"RM, CAM, LM",Right,1,2015
+184789,A. Szalai,26,09/12/1987,193,87,Hungary,TSG 1899 Hoffenheim,76,80,ST,Right,2,2018
+195586,A. Finnbogason,25,01/02/1989,184,77,Iceland,Real Sociedad,75,78,ST,Right,1,2018
+168838,J. Nekounam,33,07/10/1980,186,78,Iran,CA Osasuna,75,75,"CM, CDM",Right,2,2016
+198648,B. Natkho,26,18/02/1988,175,73,Israel,PFC CSKA Moscow,76,80,"CDM, CM",Right,2,2018
+168435,S. Sirigu,27,12/01/1987,192,80,Italy,Paris Saint-Germain,84,85,GK,Right,3,2018
+7763,A. Pirlo,35,19/05/1979,177,68,Italy,Juventus,84,84,"CM, CDM",Right,4,2016
+53302,D. De Rossi,30,24/07/1983,185,83,Italy,Roma,84,84,CDM,Right,3,2017
+138956,G. Chiellini,29,14/08/1984,186,76,Italy,Juventus,84,84,CB,Left,3,2015
+173221,A. Candreva,27,28/02/1987,181,72,Italy,Lazio,83,84,RW,Right,2,2018
+137186,A. Barzagli,33,08/05/1981,186,79,Italy,Juventus,83,83,CB,Right,3,2015
+173210,C. Marchisio,28,19/01/1986,179,76,Italy,Juventus,83,83,"CM, CDM, CAM",Right,3,2016
+186627,M. Balotelli,23,12/08/1990,188,80,Italy,Liverpool,82,86,ST,Right,4,2017
+162409,G. Rossi,27,01/02/1987,173,72,Italy,Fiorentina,82,84,ST,Left,3,2017
+1179,G. Buffon,36,28/01/1978,191,83,Italy,Juventus,82,82,GK,Right,4,2015
+49370,T. Motta,31,28/08/1982,187,83,Italy,Paris Saint-Germain,82,82,"CDM, CM",Left,3,2016
+159287,R. Montolivo,29,18/01/1985,182,79,Italy,Milan,81,81,"CM, CDM",Right,3,2016
+190813,S. El Shaarawy,21,27/10/1992,178,72,Italy,Milan,80,87,LW,Right,3,2018
+199556,M. Verratti,21,05/11/1992,165,60,Italy,Paris Saint-Germain,80,86,"CM, CDM",Right,2,2019
+192387,C. Immobile,24,20/02/1990,181,85,Italy,Borussia Dortmund,80,85,ST,Right,2,2019
+178393,A. Cerci,26,23/07/1987,178,73,Italy,Atletico Madrid,80,82,"CF, RW",Left,2,2017
+1238,F. Totti,37,27/09/1976,180,82,Italy,Roma,80,80,"CF, ST",Right,3,2016
+7631,A. Cassano,31,12/07/1982,175,73,Italy,Parma,80,80,CF,Right,3,2016
+198219,L. Insigne,23,04/06/1991,163,59,Italy,Napoli,79,85,"CAM, CF, LW",Right,2,2017
+189125,G. Bonaventura,24,22/08/1989,180,75,Italy,Milan,79,84,LM,Right,2,2019
+184344,L. Bonucci,27,01/05/1987,190,82,Italy,Juventus,79,83,CB,Right,2,2017
+4667,M. De Sanctis,37,26/03/1977,190,82,Italy,Roma,79,79,GK,Right,2,2015
+103935,A. Aquilani,29,07/07/1984,186,77,Italy,Fiorentina,79,79,"CM, CDM",Right,2,2015
+139668,F. Marchetti,31,07/02/1983,188,82,Italy,Lazio,79,79,GK,Left,2,2016
+185174,A. Poli,24,29/09/1989,182,77,Italy,Milan,78,83,"CM, CAM",Right,2,2017
+163489,A. Consigli,27,27/01/1987,189,79,Italy,Sassuolo,78,82,GK,Right,2,2018
+173198,D. Astori,27,07/01/1987,188,80,Italy,Roma,78,81,CB,Left,2,2015
+173208,D. Criscito,27,30/12/1986,183,75,Italy,Zenit St. Petersburg,78,81,LB,Left,2,2016
+120274,A. Di Natale,36,13/10/1977,170,68,Italy,Udinese,78,78,ST,Right,2,2015
+140293,A. Mirante,30,08/07/1983,193,79,Italy,Parma,78,78,GK,Right,2,2015
+165526,G. Paletta,28,15/02/1986,190,88,Italy,Parma,78,78,CB,Right,2,2015
+193338,M. Destro,23,20/03/1991,178,72,Italy,Roma,77,83,ST,Right,1,2017
+182168,A. Ranocchia,26,16/02/1988,195,81,Italy,Inter,77,81,CB,Right,2,2015
+183855,A. Ogbonna,26,23/05/1988,191,86,Italy,Juventus,77,81,CB,Left,1,2018
+51100,S. Mauri,34,08/01/1980,184,77,Italy,Lazio,77,77,"CAM, LM, RM, CM",Left,2,2015
+159261,F. Quagliarella,31,31/01/1983,180,79,Italy,Torino,77,77,ST,Right,2,2017
+168354,E. Viviano,28,01/12/1985,195,88,Italy,Sampdoria,77,77,GK,Left,2,2015
+173146,L. Cigarini,28,20/06/1986,175,72,Italy,Atalanta,77,77,CM,Right,2,2015
+178535,P. Osvaldo,28,12/01/1986,182,81,Italy,Inter,77,77,ST,Right,2,2015
+183498,M. Parolo,29,25/01/1985,186,82,Italy,Lazio,77,77,"CM, CDM",Right,2,2019
+192841,E. Giaccherini,29,05/05/1985,167,60,Italy,Sunderland,77,77,"LM, CM",Right,2,2017
+210935,D. Berardi,19,01/08/1994,183,70,Italy,Sassuolo,76,87,"RW, ST",Left,1,2015
+206058,M. De Sciglio,21,20/10/1992,183,74,Italy,Milan,76,86,"RB, LB",Right,1,2016
+198009,M. Perin,21,10/11/1992,188,74,Italy,Genoa,76,85,GK,Right,1,2017
+205498,Jorginho,22,20/12/1991,180,65,Italy,Napoli,76,85,"CDM, CM",Right,1,2018
+203551,A. Florenzi,23,11/03/1991,173,67,Italy,Roma,76,82,"RW, LW, CM",Right,1,2016
+184431,S. Giovinco,27,26/01/1987,164,59,Italy,Juventus,76,80,CF,Right,2,2015
+52797,C. Ledesma,31,24/09/1982,180,78,Italy,Lazio,76,76,"CDM, CM",Right,2,2015
+137361,G. Pazzini,29,02/08/1984,180,74,Italy,Milan,76,76,ST,Right,2,2015
+149184,C. Maggio,32,11/02/1982,184,79,Italy,Napoli,76,76,"RB, RM",Right,2,2015
+202685,S. Zaza,23,25/06/1991,187,82,Italy,Sassuolo,75,83,ST,Left,1,2019
+198683,M. Gabbiadini,22,26/11/1991,186,81,Italy,Sampdoria,75,82,"CAM, CF",Left,1,2017
+186961,A. Paloschi,24,04/01/1990,182,82,Italy,Chievo Verona,75,81,ST,Right,1,2015
+186200,F. Borini,23,23/03/1991,180,73,Italy,Liverpool,75,79,"ST, LM",Right,1,2017
+188616,M. Sau,26,03/11/1987,169,65,Italy,Cagliari,75,79,"CF, ST, LW",Right,1,2017
+189477,F. Rossi,23,03/12/1990,177,65,Italy,Cordoba CF,75,79,"CDM, CM",Right,1,2016
+189484,D. Santon,23,02/01/1991,187,83,Italy,Newcastle United,75,78,"LB, RB",Right,2,2016
+1219,C. Abbiati,36,08/07/1977,191,92,Italy,Milan,75,75,GK,Right,2,2015
+45595,D. Bonera,33,31/05/1981,183,74,Italy,Milan,75,75,"CB, RB",Right,2,2015
+46736,E. Moretti,33,11/06/1981,182,79,Italy,Torino,75,75,CB,Left,2,2016
+51101,M. Domizzi,34,28/06/1980,185,81,Italy,Udinese,75,75,CB,Left,2,2016
+103936,S. Pepe,30,30/08/1983,178,73,Italy,Juventus,75,75,"RM, LM",Right,2,2015
+123586,M. Agazzi,29,03/07/1984,189,85,Italy,Milan,75,75,GK,Right,2,2017
+156988,A. Nocerino,29,09/04/1985,175,75,Italy,Torino,75,75,"CM, CDM",Right,2,2015
+177528,A. Matri,29,19/08/1984,183,80,Italy,Genoa,75,75,ST,Right,2,2015
+168326,S. Bocchetti,27,30/11/1986,186,81,Italy,Spartak Moscow,74,80,CB,Left,2,2016
+188428,S. Doumbia,26,31/12/1987,178,74,Ivory Coast,PFC CSKA Moscow,82,84,ST,Right,2,2015
+189963,W. Bony,25,10/12/1988,182,91,Ivory Coast,Swansea City,81,84,ST,Right,2,2017
+170733,Gervinho,27,27/05/1987,179,68,Ivory Coast,Roma,81,83,"LW, RW",Right,3,2018
+31432,D. Drogba,36,11/03/1978,188,85,Ivory Coast,Chelsea,81,81,ST,Right,3,2015
+158232,S. Kalou,28,05/08/1985,185,79,Ivory Coast,Hertha BSC,78,78,"ST, RW",Right,2,2017
+197853,S. Aurier,21,24/12/1992,176,76,Ivory Coast,Paris Saint-Germain,77,84,"RB, RM",Right,2,2015
+179589,D. Ya Konan,30,22/05/1984,174,74,Ivory Coast,Al Ittihad,77,77,"ST, RM",Right,2,2016
+189358,S. Kagawa,25,17/03/1989,172,64,Japan,Borussia Dortmund,83,83,"CAM, LM, CM",Right,3,2018
+186581,K. Honda,28,13/06/1986,182,76,Japan,Milan,79,79,"CAM, RM",Left,3,2017
+194365,S. Okazaki,28,16/04/1986,174,76,Japan,1. FSV Mainz 05,77,77,"ST, RM",Right,2,2016
+194359,Y. Nagatomo,27,12/09/1986,170,68,Japan,Inter,76,76,LM,Right,2,2016
+210126,H. Kiyotake,24,12/11/1989,172,68,Japan,Hannover 96,75,78,"CAM, RM, CM",Right,1,2018
+181106,H. Hosogai,28,10/06/1986,176,68,Japan,Hertha BSC,75,75,CDM,Right,2,2017
+188942,V. Wanyama,23,25/06/1991,188,76,Kenya,Southampton,75,79,"CDM, CM",Right,1,2017
+136553,Lee Dong Gook,35,29/04/1979,187,83,Korea Republic,Korea Republic,78,78,ST,Right,3,2015
+182152,Koo Ja Cheol,25,27/02/1989,183,75,Korea Republic,1. FSV Mainz 05,76,81,"CAM, CDM, LM",Right,2,2019
+200104,H. Son,21,08/07/1992,183,76,Korea Republic,Bayer 04 Leverkusen,76,81,"LW, ST, RM, CF",Left,2,2020
+148203,Z. Karcemarskas,31,24/05/1983,189,79,Lithuania,Gaziantepspor,75,75,GK,Right,1,2016
+12259,S. Keita,34,16/01/1980,183,75,Mali,Roma,77,77,"CDM, CM",Left,3,2015
+157393,M. Sissoko,29,22/01/1985,191,81,Mali,Levante UD,76,76,"CDM, CM",Right,2,2016
+169416,C. Vela,25,01/03/1989,177,75,Mexico,Real Sociedad,82,87,"RW, CAM, ST",Left,3,2018
+170369,G. dos Santos,25,11/05/1989,175,74,Mexico,Villarreal CF,81,84,"ST, CF, LW, RW",Left,3,2017
+140233,G. Ochoa,28,13/07/1985,185,78,Mexico,Mailaga,80,80,GK,Right,3,2017
+173432,H. Moreno,26,17/01/1988,184,80,Mexico,RCD Espanyol,78,83,CB,Left,2,2016
+170370,J. Dos Santos,24,04/04/1990,172,74,Mexico,Villarreal CF,76,82,"CM, CDM",Right,1,2019
+156519,H. Herrera,24,19/04/1990,183,72,Mexico,FC Porto,76,79,"CM, CDM",Right,1,2017
+171897,A. Guardado,27,28/09/1986,169,67,Mexico,PSV,76,77,"CM, LW, LB",Left,2,2015
+158543,O. Peralta,30,12/01/1984,179,71,Mexico,Club AmÃ©rica,76,76,ST,Right,1,2020
+156412,J. Corona,33,26/01/1981,184,85,Mexico,Cruz Azul,75,75,GK,Right,2,2020
+177509,M. Benatia,27,17/04/1987,188,88,Morocco,FC Bayern Munchen,84,86,CB,Right,2,2019
+164435,M. Boussoufa,29,15/08/1984,167,61,Morocco,Lokomotiv Moscow,81,81,CAM,Right,2,2016
+179605,A. Taarabt,25,24/05/1989,177,69,Morocco,Queens Park Rangers,79,83,"CAM, LM",Right,2,2016
+183108,N. Amrabat,27,31/03/1987,178,77,Morocco,Mailaga,77,79,LM,Right,1,2015
+177533,Manuel da Costa,28,06/05/1986,188,80,Morocco,Sivasspor,77,77,"CB, CDM",Right,1,2016
+194209,Y. El Arabi,27,03/02/1987,183,84,Morocco,Granada CF,75,78,ST,Right,2,2017
+134906,M. Chamakh,30,10/01/1984,188,70,Morocco,Crystal Palace,75,75,"CAM, ST, CF",Right,2,2016
+187939,A. Chahechouhe,27,02/07/1986,176,77,Morocco,Sivasspor,75,75,"LW, ST, CAM",Right,1,2016
+198640,Z. Labyad,21,09/03/1993,173,74,Morocco,Vitesse,74,80,"CAM, LW, RW",Right,1,2015
+196801,Mexer,25,08/09/1988,181,75,Mozambique,Stade Rennais FC,75,78,CB,Right,1,2017
+9014,A. Robben,30,23/01/1984,180,80,Netherlands,FC Bayern Munchen,90,90,"RM, LM, RW",Left,5,2017
+7826,R. van Persie,30,06/08/1983,187,71,Netherlands,Manchester United,88,88,ST,Left,5,2016
+139869,W. Sneijder,30,09/06/1984,170,67,Netherlands,Galatasaray SK,84,84,"CAM, CM, LM",Right,3,2016
+148803,K. Huntelaar,30,12/08/1983,186,83,Netherlands,FC Schalke 04,84,84,ST,Right,3,2015
+189712,K. Strootman,24,13/02/1990,186,78,Netherlands,Roma,81,85,CM,Left,2,2018
+45574,R. van der Vaart,31,11/02/1983,176,74,Netherlands,Hamburger SV,81,81,"CAM, CF, CM",Left,3,2015
+53578,N. de Jong,29,30/11/1984,174,72,Netherlands,Milan,81,81,"CDM, CM",Right,3,2015
+170597,T. Krul,26,03/04/1988,193,83,Netherlands,Newcastle United,79,84,GK,Left,2,2017
+190815,D. Blind,24,09/03/1990,180,72,Netherlands,Manchester United,79,83,"CDM, LB, CM",Left,3,2018
+199987,J. Cillessen,25,22/04/1989,188,82,Netherlands,Ajax,79,82,GK,Right,2,2016
+137677,M. Vorm,30,20/10/1983,182,87,Netherlands,Tottenham Hotspur,79,79,GK,Right,2,2018
+168585,R. Vlaar,29,16/02/1985,189,79,Netherlands,Aston Villa,79,79,CB,Right,3,2015
+202556,M. Depay,20,13/02/1994,176,78,Netherlands,PSV,78,88,LW,Right,2,2018
+181291,G. Wijnaldum,23,11/11/1990,175,74,Netherlands,PSV,78,83,"CAM, RW, CM",Right,2,2018
+198176,S. de Vrij,22,05/02/1992,188,78,Netherlands,Lazio,78,82,CB,Right,3,2019
+178416,J. Lens,26,24/11/1987,178,73,Netherlands,Netherlands,78,80,"RW, ST",Right,2,2019
+190778,J. Zoet,23,06/01/1991,189,85,Netherlands,PSV,77,83,GK,Right,1,2017
+183937,G. van der Wiel,26,03/02/1988,181,69,Netherlands,Paris Saint-Germain,77,80,RB,Right,3,2016
+186452,S. de Jong,25,28/01/1989,185,80,Netherlands,Newcastle United,77,79,"CAM, ST",Right,2,2020
+2147,M. Stekelenburg,31,22/09/1982,197,92,Netherlands,AS Monaco,77,77,GK,Right,2,2015
+169181,K. Vermeer,28,10/01/1986,182,78,Netherlands,Feyenoord,77,77,GK,Right,2,2018
+199767,M. van Ginkel,21,01/12/1992,186,82,Netherlands,Milan,76,84,CM,Right,1,2015
+186351,L. Fer,24,05/01/1990,188,79,Netherlands,Queens Park Rangers,76,81,"CM, CDM",Right,2,2017
+199422,J. Clasie,23,27/06/1991,169,68,Netherlands,Feyenoord,76,81,CM,Right,1,2018
+189068,B. Dost,25,31/05/1989,196,78,Netherlands,VfL Wolfsburg,76,79,ST,Right,2,2017
+172049,E. Elia,27,13/02/1987,176,77,Netherlands,SV Werder Bremen,76,78,"RM, LM, LW, RW",Right,2,2016
+15723,D. Kuyt,33,22/07/1980,184,84,Netherlands,Fenerbahce,76,76,"RW, CF, RM, RWB",Right,3,2015
+49425,J. Heitinga,30,15/11/1983,182,72,Netherlands,Hertha BSC,76,76,CB,Right,3,2016
+158372,I. Afellay,28,02/04/1986,180,76,Netherlands,Olympiacos CFP,76,76,"LM, CAM, LW",Right,2,2015
+200223,A. Maher,20,20/07/1993,175,65,Netherlands,PSV,75,83,"CAM, CM",Right,1,2018
+203483,D. Klaassen,21,21/02/1993,185,77,Netherlands,Ajax,75,82,"CAM, CM",Right,1,2018
+199550,B. Martins Indi,22,08/02/1992,186,78,Netherlands,FC Porto,75,81,"CB, LB",Left,1,2018
+189805,L. de Jong,23,27/08/1990,188,86,Netherlands,PSV,75,80,"ST, CAM",Right,2,2019
+208004,J. Veltman,22,15/01/1992,182,73,Netherlands,Ajax,75,80,CB,Right,1,2018
+188155,D. Janmaat,24,22/07/1989,185,80,Netherlands,Newcastle United,75,79,RB,Right,2,2020
+188177,Douglas,26,12/01/1988,192,80,Netherlands,Dinamo Moscow,75,79,CB,Right,2,2016
+192362,L. Narsingh,23,13/09/1990,175,75,Netherlands,PSV,75,79,RW,Right,1,2017
+203376,V. van Dijk,22,08/07/1991,193,84,Netherlands,Celtic,75,79,CB,Right,1,2017
+177152,P. Velthuizen,27,03/11/1986,189,90,Netherlands,Vitesse,75,77,GK,Right,2,2016
+189936,R. Ruiter,27,25/03/1987,196,82,Netherlands,FC Utrecht,75,77,GK,Right,1,2017
+137109,S. Schaars,30,11/01/1984,178,76,Netherlands,PSV,75,75,"CM, CDM",Left,2,2016
+203485,T. Kongolo,20,14/02/1994,187,70,Netherlands,Feyenoord,74,83,"CB, LB",Left,1,2017
+208670,H. Ziyech,21,19/03/1993,180,70,Netherlands,FC Twente,74,82,CAM,Left,1,2018
+202101,O. John,22,19/05/1992,180,80,Netherlands,SL Benfica,74,81,"LM, RM",Right,2,2017
+176285,W. Reid,25,03/07/1988,190,87,New Zealand,West Ham United,75,78,CB,Right,2,2015
+199835,C. Emenike,27,10/05/1987,182,90,Nigeria,Fenerbahce,80,84,"ST, RW",Right,2,2017
+139968,V. Enyeama,31,29/08/1982,182,87,Nigeria,LOSC Lille,80,80,GK,Right,2,2017
+164477,J. Mikel,27,22/04/1987,188,83,Nigeria,Chelsea,78,80,"CDM, CM",Right,3,2017
+146011,I. Uche,30,05/01/1984,175,73,Nigeria,Villarreal CF,78,78,"ST, CF, RW",Right,2,2015
+137494,O. Martins,29,28/10/1984,170,73,Nigeria,Seattle Sounders FC,77,77,ST,Left,3,2019
+186954,B. Ideye,25,10/10/1988,181,78,Nigeria,West Bromwich Albion,76,79,ST,Right,1,2017
+201818,A. Musa,21,14/10/1992,168,69,Nigeria,PFC CSKA Moscow,75,82,"ST, LM",Right,2,2017
+202934,O. Onazi,21,25/12/1992,173,73,Nigeria,Lazio,75,81,CM,Right,1,2015
+172962,V. Moses,23,12/12/1990,177,85,Nigeria,Stoke City,75,79,"RM, RW, LW",Right,2,2015
+169588,J. Evans,26,02/01/1988,189,80,Northern Ireland,Manchester United,79,82,CB,Right,2,2016
+151508,S. Davis,29,01/01/1985,173,72,Northern Ireland,Southampton,76,76,"RM, CM",Right,2,2016
+184010,M. Abdellaoue,28,23/10/1985,182,80,Norway,VfB Stuttgart,76,76,ST,Left,2,2017
+182888,H. Nordtveit,24,21/06/1990,188,83,Norway,Borrusia Munchengladbach,75,79,CDM,Right,2,2016
+152567,A. Tettey,28,04/04/1986,180,68,Norway,Norwich City,75,75,"CDM, CM",Right,1,2016
+187043,S. Johansen,23,08/01/1991,183,76,Norway,Celtic,74,80,CM,Left,1,2017
+209097,O. Cardosa,30,26/11/1983,188,84,Paraguay,Paraguay,80,80,ST,Left,3,2022
+179752,O. Cardozo,31,20/05/1983,193,87,Paraguay,Trabzonspor,79,79,ST,Left,3,2017
+209082,S. La Cruz,33,08/03/1981,191,80,Paraguay,Paraguay,77,77,"ST, CF",Right,3,2016
+25798,R. Santa Cruz,32,16/08/1981,191,83,Paraguay,Mailaga,76,76,ST,Right,3,2016
+121193,N. Valdez,30,28/11/1983,178,76,Paraguay,Eintracht Frankfurt,76,76,"ST, CF",Right,2,2016
+156092,J. Villar,37,30/06/1977,180,85,Paraguay,Colo-Colo,75,75,GK,Right,2,2020
+183177,L. Barrios,29,13/11/1984,188,84,Paraguay,Montpellier HSC,75,75,ST,Right,2,2015
+209100,L. Barrogios,30,15/03/1984,189,81,Paraguay,Paraguay,75,75,ST,Right,2,
+25420,C. Pizarro,35,03/10/1978,184,84,Peru,FC Bayern Munchen,79,79,"ST, CAM",Right,3,2015
+203299,A. Carrillo,23,14/06/1991,180,73,Peru,Sporting CP,77,83,"RW, LW",Right,2,2016
+187132,C. Zambrano,24,10/07/1989,185,78,Peru,Eintracht Frankfurt,77,80,CB,Right,2,2015
+167305,J. Vargas,30,05/10/1983,180,77,Peru,Fiorentina,76,76,"LM, LB",Left,2,2015
+188545,R. Lewandowski,25,21/08/1988,184,78,Poland,FC Bayern Munchen,87,89,"ST, CF",Right,4,2019
+173771,L. Piszczek,29,03/06/1985,184,78,Poland,Borussia Dortmund,82,82,RB,Right,2,2017
+197242,G. Krychowiak,24,29/01/1990,186,85,Poland,Sevilla FC,79,83,CDM,Right,1,2018
+190547,K. Glik,26,03/02/1988,190,80,Poland,Torino,79,81,CB,Right,1,2017
+177922,K. Grosicki,26,08/06/1988,177,75,Poland,Stade Rennais FC,76,79,"RW, LW",Right,2,2017
+105846,A. Boruc,34,20/02/1980,193,87,Poland,Southampton,76,76,GK,Right,2,2015
+162280,A. Mierzejewski,27,06/11/1986,176,70,Poland,Al Nassr,75,77,"CAM, RM, LM",Left,1,2017
+135218,D. Perquis,30,10/04/1984,184,83,Poland,Real Betis,75,75,CB,Right,1,2016
+138066,L. Obraniak,29,10/11/1984,174,72,Poland,SV Werder Bremen,75,75,"CAM, RM",Left,2,2016
+165174,E. Polanski,28,17/03/1986,183,78,Poland,TSG 1899 Hoffenheim,75,75,"CDM, CM",Right,2,2017
+20801,Cristiano Ronaldo,29,05/02/1985,185,80,Portugal,Real Madrid,92,92,"LW, LM",Right,5,2018
+120533,Pepe,31,26/02/1983,188,81,Portugal,Real Madrid,83,83,"CB, CDM",Right,3,2016
+20800,Danny,30,07/08/1983,178,70,Portugal,Zenit St. Petersburg,82,82,"LW, CAM",Right,2,2015
+139068,Nani,27,17/11/1986,175,66,Portugal,Sporting CP,81,82,"RM, LM",Right,2,2015
+182629,Beto,32,01/05/1982,182,81,Portugal,Sevilla FC,81,81,GK,Right,2,2015
+4098,Tiago,33,02/05/1981,183,71,Portugal,Atletico Madrid,80,80,"CM, CDM",Right,3,2016
+20775,Quaresma,30,26/09/1983,175,74,Portugal,FC Porto,80,80,"RW, LW",Right,2,2016
+138110,Bruno Alves,32,27/11/1981,187,83,Portugal,Fenerbahce,80,80,CB,Right,3,2016
+178007,Miguel Veloso,28,11/05/1986,180,78,Portugal,Portugal,80,80,"CDM, CM",Left,3,2021
+157960,Manuel Fernandes,28,05/02/1986,175,69,Portugal,Lokomotiv Moscow,79,79,"CM, CDM, CAM",Right,2,2018
+207566,William Carvalho,22,07/04/1992,187,87,Portugal,Sporting CP,78,85,CDM,Right,2,2018
+184826,Adrien Silva,25,15/03/1989,175,72,Portugal,Sporting CP,78,83,CM,Right,2,2017
+20209,Ricardo Costa,33,16/05/1981,183,80,Portugal,Portugal,78,78,"CB, RB",Right,2,2018
+163083,Rolando,28,31/08/1985,190,80,Portugal,FC Porto,78,78,CB,Right,2,2015
+172672,Varela,29,02/02/1985,179,79,Portugal,West Bromwich Albion,78,78,"LW, RW",Right,2,2015
+177553,Vieirinha,28,24/01/1986,172,73,Portugal,VfL Wolfsburg,78,78,"RM, LM",Right,2,2015
+216547,Rafa,21,17/05/1993,170,63,Portugal,SC Braga,77,84,"LW, CAM, RW",Right,1,2019
+3622,Ricardo Carvalho,36,18/05/1978,181,78,Portugal,AS Monaco,77,77,CB,Right,3,2015
+138463,Ruben Amorim,29,27/01/1985,180,78,Portugal,SL Benfica,77,77,CM,Right,1,2018
+211368,Bruma,19,24/10/1994,173,66,Portugal,Galatasaray SK,76,83,"LW, RW",Right,1,2018
+212198,Bruno Fernandes,19,08/09/1994,173,65,Portugal,Udinese,76,83,"CAM, CM, CF, LW",Right,1,2020
+199482,A. Lopes,23,01/10/1990,184,81,Portugal,Olympique Lyonnais,76,80,GK,Left,1,2016
+197965,Pizzi,24,06/10/1989,172,65,Portugal,SL Benfica,76,79,"CAM, RM",Right,1,2019
+178424,Antunes,27,01/04/1987,175,69,Portugal,Mailaga,76,78,LB,Left,2,2017
+2492,Eliseu,30,01/10/1983,175,75,Portugal,SL Benfica,76,76,"LB, LM",Left,1,2016
+182736,Ricardo,31,06/07/1982,188,84,Portugal,FC Porto,76,76,GK,Right,1,2017
+189468,Candeias,26,25/02/1988,177,76,Portugal,Nurnberg,75,79,"LM, RM, LW",Right,1,2015
+204401,Diogo Figueiras,22,01/07/1991,168,64,Portugal,Sevilla FC,75,78,RB,Right,1,2017
+180216,S. Coleman,25,11/10/1988,177,77,Republic of Ireland,Everton,79,83,RB,Right,2,2019
+188253,J. McCarthy,23,12/11/1990,180,72,Republic of Ireland,Everton,79,83,"CDM, CM",Right,2,2018
+330,R. Keane,33,08/07/1980,175,73,Republic of Ireland,LA Galaxy,79,79,"ST, CF",Right,2,2016
+155885,A. McGeady,28,04/04/1986,180,73,Republic of Ireland,Everton,78,78,"RM, RW",Right,3,2018
+169590,D. Gibson,26,25/10/1987,183,80,Republic of Ireland,Everton,76,78,"CM, CDM",Right,2,2016
+170570,S. Ireland,27,22/08/1986,173,66,Republic of Ireland,Stoke City,76,76,"CAM, CM",Right,2,2017
+169216,S. Long,27,22/01/1987,180,81,Republic of Ireland,Southampton,75,76,ST,Right,2,2018
+3484,J. O'Shea,33,30/04/1981,191,75,Republic of Ireland,Sunderland,75,75,CB,Right,2,2015
+149791,W. Hoolahan,32,20/05/1982,168,71,Republic of Ireland,Norwich City,75,75,CAM,Left,2,2017
+211061,A. Maxim,23,08/07/1990,177,73,Romania,VfB Stuttgart,77,82,"CAM, CF",Right,1,2017
+165109,S. Radu,27,22/10/1986,183,79,Romania,Lazio,77,80,LB,Left,2,2016
+148119,I. Akinfeev,28,08/04/1986,186,78,Russia,PFC CSKA Moscow,83,83,GK,Right,3,2019
+187607,A. Dzyuba,25,22/08/1988,194,91,Russia,Spartak Moscow,80,83,ST,Right,1,2015
+147782,I. Denisov,30,17/05/1984,176,70,Russia,Dinamo Moscow,80,80,CDM,Right,2,2016
+187735,A. Dzagoev,24,17/06/1990,179,70,Russia,PFC CSKA Moscow,79,84,"CAM, CDM, LM",Right,2,2019
+167614,R. Shirokov,32,06/07/1981,187,83,Russia,Spartak Moscow,79,79,"CM, CAM",Right,2,2016
+216336,Y. Lodygin,24,26/05/1990,187,82,Russia,Zenit St. Petersburg,78,83,GK,Right,1,2016
+192086,A. Kokorin,23,19/03/1991,183,77,Russia,Dinamo Moscow,78,82,"ST, CAM",Right,2,2016
+147621,A. Samedov,29,19/07/1984,177,75,Russia,Lokomotiv Moscow,78,78,"RM, CAM, RW",Right,1,2016
+148122,V. Berezutskiy,32,20/06/1982,189,87,Russia,PFC CSKA Moscow,78,78,CB,Right,2,2016
+154950,Y. Zhirkov,30,20/08/1983,180,75,Russia,Dinamo Moscow,78,78,"LM, LB, LW",Left,3,2016
+112542,S. Ignashevich,34,14/07/1979,186,82,Russia,PFC CSKA Moscow,77,77,CB,Right,2,2016
+167549,R. Shishkin,27,27/01/1987,176,73,Russia,Lokomotiv Moscow,76,77,"RB, CDM",Right,1,2021
+187659,D. Tarasov,27,18/03/1987,192,84,Russia,Lokomotiv Moscow,76,77,"CDM, CM",Right,1,2018
+109416,A. Kerzhakov,31,27/11/1982,176,76,Russia,Zenit St. Petersburg,76,76,ST,Right,3,2016
+147579,V. Gabulov,30,19/10/1983,190,83,Russia,Dinamo Moscow,76,76,GK,Right,2,2016
+147794,V. Malafeev,35,04/03/1979,185,76,Russia,Zenit St. Petersburg,76,76,GK,Right,2,2016
+148217,A. Anyukov,31,28/09/1982,178,67,Russia,Zenit St. Petersburg,76,76,RB,Right,2,2018
+166708,A. Kasaev,28,08/04/1986,174,76,Russia,Lokomotiv Moscow,76,76,LM,Right,2,2017
+187366,D. Glushakov,27,27/01/1987,182,80,Russia,Spartak Moscow,75,76,"CDM, CM",Right,1,2016
+147660,S. Ryzhikov,33,19/09/1980,192,92,Russia,Rubin Kazan,75,75,GK,Right,1,2017
+147777,A. Arshavin,33,29/05/1981,172,68,Russia,Zenit St. Petersburg,75,75,"LW, RW",Right,2,2015
+147779,V. Bystrov,30,31/01/1984,177,73,Russia,FC Krasnodar,75,75,"RW, RM",Right,2,2017
+191834,N. Al Shamrani,30,23/11/1983,175,73,Saudi Arabia,Al Hilal,76,76,ST,Right,1,2016
+164769,S. Fletcher,27,26/03/1987,186,76,Scotland,Sunderland,76,77,ST,Left,2,2016
+163209,S. Naismith,27,14/09/1986,178,72,Scotland,Everton,76,76,"ST, RM, CAM",Right,2,2016
+183540,B. Bannan,24,01/12/1989,169,61,Scotland,Crystal Palace,75,76,"RM, CAM, LM, CM",Left,1,2016
+100806,K. Commons,30,30/08/1983,168,64,Scotland,Celtic,75,75,"CAM, RM",Left,2,2015
+138782,D. Fletcher,30,01/02/1984,184,74,Scotland,Manchester United,75,75,"CM, CDM",Right,2,2015
+140498,D. Marshall,29,05/03/1985,191,83,Scotland,Cardiff City,75,75,GK,Right,1,2018
+177134,D. Ba,29,25/05/1985,189,85,Senegal,Besiktas,80,80,ST,Right,2,2018
+179875,D. N'Doye,29,21/02/1985,186,81,Senegal,Lokomotiv Moscow,79,79,ST,Right,2,2015
+187084,M. Diouf,26,16/12/1987,185,79,Senegal,Stoke City,78,80,ST,Right,2,2018
+172124,M. Sow,28,19/01/1986,180,81,Senegal,Fenerbahce,78,78,"LW, ST",Right,3,2016
+197937,P. Djilobodji,25,01/12/1988,193,82,Senegal,FC Nantes,77,82,CB,Left,1,2016
+193474,I. Gueye,24,26/09/1989,174,66,Senegal,LOSC Lille,76,83,"CDM, CM",Right,1,2018
+178250,P. Diop,28,19/03/1986,180,73,Senegal,Levante UD,76,76,"CDM, CM",Right,1,2015
+178679,M. Sall,28,30/11/1985,191,96,Senegal,Saint-Atienne,76,76,CB,Right,1,2017
+208339,O. Niasse,24,18/04/1990,182,82,Senegal,Lokomotiv Moscow,75,79,"ST, CF, RW",Right,1,2020
+185103,A. Kolarov,28,10/11/1985,187,83,Serbia,Manchester City,78,78,LB,Left,2,2018
+186524,F. Djordjevic,26,28/09/1987,186,80,Serbia,Lazio,75,79,ST,Left,1,2018
+183376,L. Fejsa,25,14/08/1988,186,77,Serbia,SL Benfica,75,78,CDM,Right,1,2018
+167514,D. Basta,29,18/08/1984,184,74,Serbia,Lazio,75,75,"RB, RM, LM, LB",Right,2,2018
+181816,A. Rukavina,30,26/01/1984,177,74,Serbia,Villarreal CF,75,75,RB,Right,2,2016
+195365,K. Kampl,23,09/10/1990,180,64,Slovenia,FC Red Bull Salzburg,77,82,"RM, RW, CAM",Right,1,2018
+200389,J. Oblak,21,07/01/1993,188,77,Slovenia,Atletico Madrid,77,82,GK,Right,1,2020
+176104,V. Birsa,27,07/08/1986,184,81,Slovenia,Chievo Verona,75,75,"LW, RW, CAM",Left,2,2015
+50327,S. Pienaar,32,17/03/1982,170,66,South Africa,Everton,79,79,LM,Right,2,2016
+165247,I. Khune,27,20/06/1987,181,81,South Africa,Kaizer Chiefs,77,80,GK,Right,2,2015
+155862,Sergio Ramos,28,30/03/1986,183,75,Spain,Real Madrid,87,87,CB,Right,4,2017
+168542,David Silva,28,08/01/1986,170,67,Spain,Manchester City,87,87,"LM, CAM",Left,4,2019
+10535,Xavi,34,25/01/1980,170,68,Spain,FC Barcelona,86,86,CM,Right,4,2021
+189511,Sergio Busquets,25,16/07/1988,189,73,Spain,FC Barcelona,85,89,"CDM, CM",Right,4,2018
+179844,Diego Costa,25,07/10/1988,188,81,Spain,Chelsea,85,87,ST,Right,3,2019
+177610,Javi Martinez,25,02/09/1988,190,81,Spain,FC Bayern Munchen,85,86,"CB, CDM, CM",Right,3,2017
+178088,Juan Mata,26,28/04/1988,174,63,Spain,Manchester United,85,86,"CAM, RM",Left,3,2018
+5479,Casillas,33,20/05/1981,185,84,Spain,Real Madrid,84,84,GK,Left,4,2017
+45197,Xabi Alonso,32,25/11/1981,183,77,Spain,FC Bayern Munchen,84,84,"CDM, CM",Right,4,2016
+146562,Santi Cazorla,29,13/12/1984,168,66,Spain,Arsenal,84,84,"LM, CAM, RM",Right,3,2017
+197781,Isco,22,21/04/1992,176,74,Spain,Real Madrid,83,88,"CAM, CM, LM, CDM",Right,2,2018
+193080,De Gea,23,07/11/1990,193,82,Spain,Manchester United,83,87,GK,Right,3,2016
+189505,Pedro,26,28/07/1987,169,64,Spain,FC Barcelona,83,86,"LW, RW",Right,3,2016
+146439,Negredo,28,20/08/1985,186,79,Spain,Valencia CF,83,83,ST,Left,3,2015
+193747,Koke,22,08/01/1992,178,74,Spain,Atletico Madrid,82,85,"LM, RM, CM",Right,2,2019
+146954,Gabi,30,10/07/1983,180,74,Spain,Atletico Madrid,82,82,"CM, CDM",Right,3,2017
+161956,Borja Valero,29,12/01/1985,175,73,Spain,Fiorentina,82,82,CM,Right,2,2019
+189509,Thiago,23,11/04/1991,172,70,Spain,FC Bayern Munchen,81,86,"CM, CAM, CDM",Right,3,2017
+189332,Jordi Alba,25,21/03/1989,170,69,Spain,FC Barcelona,81,85,LB,Left,3,2017
+189574,Iturraspe,25,08/03/1989,187,75,Spain,Athletic Club de Bilbao,81,84,"CDM, CM",Right,2,2017
+49369,Fernando Torres,30,20/03/1984,186,78,Spain,Milan,81,81,ST,Right,3,2016
+146758,Soldado,29,27/05/1985,179,72,Spain,Tottenham Hotspur,81,81,ST,Right,3,2017
+162131,Llorente,29,26/02/1985,195,90,Spain,Juventus,81,81,ST,Right,3,2017
+189513,Parejo,25,16/04/1989,180,75,Spain,Valencia CF,80,86,"CM, CAM",Right,2,2016
+198329,Rodrigo,23,06/03/1991,180,70,Spain,Valencia CF,80,86,"ST, CF, RW, LW",Left,2,2015
+189354,Susaeta,26,14/12/1987,179,68,Spain,Athletic Club de Bilbao,80,85,"RW, RM",Right,2,2017
+177644,Kiko Casilla,27,02/10/1986,191,84,Spain,RCD Espanyol,80,83,GK,Right,2,2015
+45119,Mikel Arteta,32,26/03/1982,175,64,Spain,Arsenal,80,80,CDM,Right,3,2015
+106213,Iraola,32,22/06/1982,182,74,Spain,Athletic Club de Bilbao,80,80,RB,Right,2,2015
+106231,Aduriz,33,11/02/1981,182,78,Spain,Athletic Club de Bilbao,80,80,ST,Right,2,2015
+113422,David Villa,32,03/12/1981,175,69,Spain,Melbourne City FC,80,80,"ST, LW, LM",Right,3,2017
+189690,Guaita,27,18/02/1987,190,81,Spain,Getafe CF,79,84,GK,Right,2,2018
+190584,Illarramendi,24,08/03/1990,179,76,Spain,Real Madrid,79,84,"CM, CDM",Right,2,2019
+191740,Ander Herrera,24,14/08/1989,182,73,Spain,Manchester United,79,84,"CM, CAM",Right,2,2018
+202477,Deulofeu,20,13/03/1994,179,73,Spain,Sevilla FC,79,83,"RW, RM",Right,1,2015
+204963,Carvajal,22,11/01/1992,173,73,Spain,Real Madrid,79,83,RB,Right,2,2019
+178750,Sergio Asenjo,25,28/06/1989,182,84,Spain,Villarreal CF,79,82,GK,Right,1,2019
+184432,Azpilicueta,24,28/08/1989,178,75,Spain,Chelsea,79,82,"LB, RB",Right,2,2019
+189560,Iborra,26,16/01/1988,195,88,Spain,Sevilla FC,79,80,"CDM, CM",Right,1,2018
+146482,Xabi Prieto,30,29/08/1983,186,76,Spain,Real Sociedad,79,79,"CAM, RW",Right,2,2017
+146741,Arbeloa,31,17/01/1983,184,79,Spain,Real Madrid,79,79,"RB, LB",Right,3,2016
+146760,Juanfran,29,09/01/1985,180,72,Spain,Atletico Madrid,79,79,"RB, RM, LB",Right,3,2018
+172294,Mikel Gonzalez,28,24/09/1985,190,79,Spain,Real Sociedad,79,79,CB,Right,2,2017
+184120,Bruno,30,12/06/1984,184,74,Spain,Villarreal CF,79,79,"CM, CDM",Left,2,2020
+205566,Alberto Moreno,21,05/07/1992,171,67,Spain,Liverpool,78,84,LB,Left,1,2018
+200315,Cristian Tello,22,19/08/1991,178,65,Spain,FC Porto,78,83,"RW, LW",Right,1,2016
+190149,De Marcos,25,14/04/1989,180,76,Spain,Athletic Club de Bilbao,78,82,"RB, RW, CAM, CM",Right,1,2016
+188005,Camacho,24,04/05/1990,182,75,Spain,Mailaga,78,81,"CDM, CB",Right,1,2019
+172316,Coke,27,26/04/1987,176,72,Spain,Sevilla FC,78,80,RB,Right,1,2018
+197890,Arribas,25,01/05/1989,185,77,Spain,Sevilla FC,78,80,CB,Right,1,2016
+114764,Iraizoz,33,06/03/1981,191,89,Spain,Athletic Club de Bilbao,78,78,GK,Right,2,2015
+146111,Mikel Rico,29,04/11/1984,178,76,Spain,Athletic Club de Bilbao,78,78,CM,Right,1,2016
+146460,Javi Fuego,30,04/01/1984,181,76,Spain,Valencia CF,78,78,"CDM, CM",Right,1,2016
+164876,Michu,28,21/03/1986,185,80,Spain,Napoli,78,78,"ST, CAM",Left,2,2015
+183666,Roberto,28,10/02/1986,192,86,Spain,Olympiacos CFP,78,78,GK,Right,1,2018
+201153,Morata,21,23/10/1992,187,80,Spain,Juventus,77,85,ST,Right,1,2019
+190286,Sergio Canales,23,16/02/1991,179,65,Spain,Real Sociedad,77,84,"CAM, LM, RM",Left,2,2018
+194644,Montoya,23,14/04/1991,174,74,Spain,FC Barcelona,77,83,"RB, LB",Right,1,2019
+199561,Nolito,27,15/10/1986,175,73,Spain,RC Celta,77,82,"LM, LW",Right,1,2019
+176993,Bojan,23,28/08/1990,170,65,Spain,Stoke City,77,81,"RW, LW, CF",Right,2,2018
+178085,Granero,26,02/07/1987,180,75,Spain,Real Sociedad,77,81,"CM, CAM, RM",Right,2,2018
+161793,Agirretxe,27,24/02/1987,187,77,Spain,Real Sociedad,77,80,ST,Right,1,2018
+190223,Balenziaga,26,29/02/1988,176,70,Spain,Athletic Club de Bilbao,77,80,"LB, RB",Left,1,2016
+199715,Vitolo,24,02/11/1989,184,79,Spain,Sevilla FC,77,80,"LM, RM",Left,1,2017
+105803,Gurpegi,33,19/08/1980,181,75,Spain,Athletic Club de Bilbao,77,77,"CB, CDM",Right,1,2015
+111022,David Navarro,34,25/05/1980,188,82,Spain,Levante UD,77,77,CB,Right,1,2016
+111093,Reyes,30,01/09/1983,176,72,Spain,Sevilla FC,77,77,"RM, LM",Left,3,2015
+147006,Diego Castro,31,02/07/1982,174,70,Spain,Getafe CF,77,77,"LM, RM, CAM",Right,2,2015
+153934,Piti,33,26/05/1981,179,79,Spain,Granada CF,77,77,"RM, CAM, LM",Left,1,2016
+155984,Markel Bergara,28,05/05/1986,181,78,Spain,Real Sociedad,77,77,"CDM, CM",Right,1,2016
+159172,Trashorras,33,28/02/1981,179,71,Spain,Rayo Vallecano,77,77,"CM, CAM, CDM",Right,1,2015
+215785,B. Keita,19,08/03/1995,181,77,Spain,Lazio,76,85,"LW, RW",Right,1,2018
+198141,Marc Bartra,23,15/01/1991,183,70,Spain,FC Barcelona,76,81,"CB, RB",Right,1,2017
+192629,Iago Aspas,26,01/08/1987,176,67,Spain,Sevilla FC,76,80,"ST, CF",Left,1,2015
+171318,Diego Capel,26,16/02/1988,173,71,Spain,Sporting CP,76,79,"LW, RW",Left,2,2016
+179528,Xavi Torres,27,21/11/1986,184,82,Spain,Real Betis,76,79,"CDM, CM",Right,1,2017
+178087,Bueno,26,20/03/1988,178,64,Spain,Rayo Vallecano,76,77,"CAM, ST",Right,1,2015
+193844,Portillo,24,13/06/1990,169,63,Spain,Mailaga,76,77,"RM, CAM, CM",Right,1,2016
+53014,Fernando Navarro,32,25/06/1982,176,70,Spain,Sevilla FC,76,76,"LB, CB",Left,1,2016
+110376,Jonatan Soriano,28,24/09/1985,180,74,Spain,FC Red Bull Salzburg,76,76,ST,Right,1,2017
+138497,Amaya,31,31/05/1983,192,86,Spain,Rayo Vallecano,76,76,CB,Right,1,2019
+145889,Tito,28,11/07/1985,174,62,Spain,Rayo Vallecano,76,76,"RB, LB",Right,1,2016
+146458,Roberto,35,25/01/1979,180,79,Spain,Granada CF,76,76,GK,Right,1,2015
+164910,Valera,29,21/12/1984,184,76,Spain,Getafe CF,76,76,RB,Right,1,2015
+177604,Nacho Monreal,28,26/02/1986,178,72,Spain,Arsenal,76,76,LB,Left,2,2017
+199564,Sergi Roberto,22,07/02/1992,177,70,Spain,FC Barcelona,75,84,"CM, CDM",Right,1,2019
+194229,Hugo Mallo,23,22/06/1991,173,69,Spain,RC Celta,75,82,RB,Right,1,2019
+185181,Yoel,25,28/08/1988,186,78,Spain,Valencia CF,75,80,GK,Right,1,2015
+198164,Jonathan Viera,24,01/10/1989,170,64,Spain,Standard de LiÃ¨ge,75,80,"CAM, LM, RM",Right,1,2016
+193735,Juan Dominguez,24,08/01/1990,181,71,Spain,Deportivo La Coruna,75,79,"CM, CDM, CAM",Right,1,2015
+202493,Aleix,24,21/08/1989,176,70,Spain,Sevilla FC,75,78,"RM, LM",Right,1,2019
+110377,Corominas,31,05/01/1983,171,69,Spain,Elche CF,75,75,"CAM, RM, LM, ST",Right,1,2016
+146513,Lafita,29,07/08/1984,187,73,Spain,Getafe CF,75,75,"CAM, RM, LM, ST",Right,2,2017
+146953,Manu Del Moral,30,25/02/1984,185,77,Spain,SD Eibar,75,75,"ST, LM, RM",Right,2,2015
+159171,Jurado,28,29/06/1986,176,72,Spain,Spartak Moscow,75,75,"LM, CAM, LW",Right,2,2017
+172013,De la Bella,28,02/12/1985,182,82,Spain,Real Sociedad,75,75,LB,Left,1,2018
+172684,Javi Varas,31,10/09/1982,182,74,Spain,Real Valladolid CF,75,75,GK,Right,2,2015
+202651,Suso,20,19/11/1993,178,72,Spain,Liverpool,74,83,"RM, LM",Left,1,2017
+210930,Carles Gil,21,02/11/1992,170,69,Spain,Valencia CF,74,83,"RM, LM, CAM",Left,1,2016
+198198,Jordi Amat,22,21/03/1992,185,83,Spain,Swansea City,74,80,CB,Right,1,2017
+167599,R. Elm,26,17/03/1988,184,75,Sweden,PFC CSKA Moscow,79,82,CDM,Right,2,2015
+176794,O. Toivonen,27,03/07/1986,191,75,Sweden,Stade Rennais FC,78,78,"ST, CAM",Right,2,2017
+156713,A. Granqvist,29,16/04/1985,192,84,Sweden,FC Krasnodar,77,77,CB,Right,2,2016
+176731,P. Wernbloom,28,25/06/1986,187,85,Sweden,PFC CSKA Moscow,77,77,CDM,Right,2,2016
+176733,M. Berg,27,17/08/1986,184,74,Sweden,Panathinaikos FC,77,77,"ST, CF",Right,2,2017
+45842,J. Olsson,31,10/03/1983,193,84,Sweden,West Bromwich Albion,76,76,CB,Left,2,2016
+176942,M. Lustig,27,13/12/1986,190,78,Sweden,Celtic,75,76,"RB, CB",Right,1,2017
+158932,E. Zengin,28,05/08/1985,180,72,Sweden,EskiÅŸehirspor,75,75,"RW, LW",Right,1,2017
+181318,A. Ekdal,24,28/07/1989,186,82,Sweden,Cagliari,74,80,CM,Right,2,2016
+193348,X. Shaqiri,22,10/10/1991,169,72,Switzerland,FC Bayern Munchen,80,85,"RM, LM, CAM",Left,2,2016
+193352,R. Rodriguez,21,25/08/1992,180,77,Switzerland,VfL Wolfsburg,80,84,LB,Left,2,2016
+115533,D. Benaglio,30,08/09/1983,194,89,Switzerland,VfL Wolfsburg,80,80,GK,Right,3,2016
+177683,Y. Sommer,25,17/12/1988,183,79,Switzerland,Borrusia Munchengladbach,79,84,GK,Right,2,2019
+183187,V. Stocker,25,12/04/1989,179,72,Switzerland,Hertha BSC,79,83,"LM, CF",Left,2,2018
+158810,G. Inler,30,27/06/1984,183,80,Switzerland,Napoli,79,79,"CDM, CM",Right,3,2016
+161805,V. Behrami,29,19/04/1985,185,78,Switzerland,Hamburger SV,79,79,"CDM, CM",Right,2,2017
+158905,P. Schwegler,27,09/03/1987,178,69,Switzerland,TSG 1899 Hoffenheim,77,80,"CDM, CM",Right,2,2017
+108080,S. Lichtsteiner,30,16/01/1984,180,77,Switzerland,Juventus,77,77,"RM, RB",Right,2,2015
+199503,G. Xhaka,21,27/09/1992,185,82,Switzerland,Borrusia Munchengladbach,76,83,"CM, CAM",Left,2,2017
+188770,A. Mehmedi,23,16/03/1991,183,79,Switzerland,SC Freiburg,76,80,"CF, ST",Right,1,2019
+177019,F. Lustenberger,26,02/05/1988,180,70,Switzerland,Hertha BSC,76,79,"CB, CDM",Right,1,2017
+52752,T. Barnetta,29,22/05/1985,178,70,Switzerland,FC Schalke 04,76,76,"LM, CAM, RM",Right,2,2015
+53050,E. Adebayor,30,26/02/1984,191,82,Togo,Tottenham Hotspur,80,80,ST,Right,3,2016
+137763,K. Agassa,35,02/07/1978,190,85,Togo,Stade de Reims,77,77,GK,Right,1,2015
+159175,A. Romao,30,18/01/1984,180,74,Togo,Olympique de Marseille,75,75,"CDM, CB",Right,2,2016
+198076,A. Abdennour,24,06/08/1989,187,84,Tunisia,AS Monaco,79,83,CB,Left,2,2018
+194845,W. Khazri,23,08/02/1991,182,76,Tunisia,FC Girondins de Bordeaux,75,80,"LM, LW",Right,1,2018
+177022,Y. Chikhaoui,27,22/09/1986,189,80,Tunisia,FC Zurich,74,80,"ST, CAM, CF, CM",Right,1,2017
+143745,A. Turan,27,30/01/1987,177,76,Turkey,Atletico Madrid,84,88,"LM, RM, CAM",Right,3,2017
+143306,T. Zengin,30,10/10/1983,192,90,Turkey,Besiktas,81,81,GK,Right,1,2017
+186953,O. Kivrak,26,01/01/1988,187,74,Turkey,Trabzonspor,80,81,GK,Right,2,2016
+167812,S. Kaya,23,24/02/1991,182,66,Turkey,Galatasaray SK,79,84,CB,Right,1,2018
+185239,O. Toprak,24,21/07/1989,186,83,Turkey,Bayer 04 Leverkusen,79,82,CB,Right,2,2018
+143632,V. Demirel,32,27/10/1981,191,90,Turkey,Fenerbahce,79,79,GK,Right,2,2017
+124635,M. Topal,28,03/03/1986,187,82,Turkey,Fenerbahce,78,78,"CDM, CB",Right,2,2016
+144306,E. Korkmaz,31,03/11/1982,183,83,Turkey,Fenerbahce,78,78,CB,Left,1,2015
+171875,C. Erkin,25,04/10/1988,179,76,Turkey,Fenerbahce,76,82,"LB, LM",Left,2,2016
+194079,A. Potuk,23,08/04/1991,177,67,Turkey,Fenerbahce,76,82,"CAM, LM, CM",Right,1,2018
+162220,S. Bolat,25,03/09/1988,190,79,Turkey,Galatasaray SK,76,79,GK,Right,2,2015
+144280,G. Zan,32,07/09/1981,192,85,Turkey,Galatasaray SK,75,75,CB,Right,2,2015
+192991,C. Tosun,23,07/06/1991,183,78,Turkey,Besiktas,74,80,ST,Right,1,2019
+195861,Y. Rakitskyi,24,03/08/1989,180,70,Ukraine,Shakhtar Donetsk,78,80,"CB, LB",Left,1,2018
+142902,A. Pyatov,30,28/06/1984,190,84,Ukraine,Shakhtar Donetsk,76,76,GK,Right,2,2019
+146797,A. Dikan,36,16/07/1977,192,84,Ukraine,FC Krasnodar,76,76,GK,Right,2,2016
+121622,A. Tymoshchuk,35,30/03/1979,181,70,Ukraine,Zenit St. Petersburg,75,75,CDM,Right,3,2015
+162508,O. Kucher,31,22/10/1982,184,77,Ukraine,Shakhtar Donetsk,75,75,CB,Right,1,2020
+16254,T. Howard,35,06/03/1979,191,88,United States,Everton,82,82,GK,Right,3,2018
+155897,C. Dempsey,31,09/03/1983,185,84,United States,Seattle Sounders FC,81,81,"CF, CAM, ST",Right,3,2016
+7743,L. Donovan,32,04/03/1982,173,73,United States,LA Galaxy,79,79,"LM, ST",Right,3,2021
+155887,M. Bradley,26,31/07/1987,188,79,United States,Toronto FC,78,82,"CM, CDM",Right,2,2020
+11983,B. Friedel,43,18/05/1971,188,92,United States,Tottenham Hotspur,78,78,GK,Right,2,2015
+164505,B. Guzan,29,09/09/1984,193,95,United States,Aston Villa,78,78,GK,Left,2,2017
+112847,J. Jones,32,03/11/1981,184,78,United States,New England Revolution,77,77,"CDM, CM",Right,2,2016
+16097,N. Rimando,35,17/06/1979,178,83,United States,Real Salt Lake,76,76,GK,Right,1,2018
+178284,L. Nguyen,27,07/10/1986,173,68,United States,New England Revolution,75,75,"CAM, CM",Right,1,2018
+179813,E. Cavani,27,14/02/1987,184,71,Uruguay,Paris Saint-Germain,85,87,"ST, RW",Right,4,2018
+182494,F. Muslera,28,16/06/1986,190,77,Uruguay,Galatasaray SK,82,82,GK,Right,2,2018
+174379,G. Castro,29,14/09/1984,176,70,Uruguay,Real Sociedad,78,78,"LW, RW",Left,2,2016
+201508,G. Ramirez,23,02/12/1990,183,78,Uruguay,Hull City,77,81,"CAM, RM",Left,2,2015
+182862,M. Pereira,30,08/06/1984,173,70,Uruguay,SL Benfica,77,77,RB,Right,2,2015
+189067,M. Britos,28,17/07/1985,188,82,Uruguay,Napoli,75,75,CB,Left,2,2015
+209119,F. Amorebielsa,28,27/10/1985,194,83,Venezuela,Venezuela,82,82,"CB, LB",Left,3,2020
+209118,J. Aranguren,33,17/12/1980,176,74,Venezuela,Venezuela,77,77,"LM, CAM",Left,2,2017
+156776,J. Arango,34,17/05/1980,180,76,Venezuela,Club Tijuana,75,75,LM,Left,2,2020
+175462,O. Vizcarrondo,30,31/05/1984,191,84,Venezuela,FC Nantes,75,75,CB,Right,1,2016
+173731,G. Bale,24,16/07/1989,183,74,Wales,Real Madrid,87,91,"RM, RW",Left,4,2019
+186561,A. Ramsey,23,26/12/1990,177,70,Wales,Arsenal,83,86,"CM, CDM",Right,3,2019
+163824,A. Williams,29,23/08/1984,181,91,Wales,Swansea City,79,79,CB,Right,2,2018
+184716,J. Allen,24,14/03/1990,168,62,Wales,Liverpool,77,82,"CM, CDM",Right,2,2017
